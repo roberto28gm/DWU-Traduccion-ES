@@ -1,0 +1,47 @@
+﻿
+GREETING_INTRODUCTION			;¡Bienvenidos visitantes!\n\nSomos los orgullosos y sensibles kiadianos de {0}.\n\n¿Hay algo que podamos hacer por ustedes?
+GREETING_FRIENDLY			;¿A qué debemos el placer de su compañía, amigo?
+GREETING_NEUTRAL			;¿Qué deberíamos debatir?
+GREETING_ANGRY				;Expliquen su presencia ante nosotros
+
+OFFER_FREETRADE				;Estaríamos honrados si se unen a nosotros en un Tratado de Libre Comercio.\n\n¿Qué dicen?
+FREETRADE_ACCEPT			;Vuestra oferta de un Tratado de Libre Comercio tiene sentido. Aceptamos
+FREETRADE_REJECT			;Lo sentimos, pero no podemos acometer un Tratado de Libre Comercio en este momento
+
+CANCELTREATY				;Tras una cuidadosa deliberación, hemos decidido que no podemos mantener más nuestro {0} con ustedes.\n\nEste tratado está cancelado
+CANCELTREATY_RESPONSE_FRIENDLY		;Estamos sorprendidos y un tanto preocupados por vuestra irracional cancelación de este tratado.\n\nNo obstante esta es vuestra elección
+CANCELTREATY_RESPONSE_NEUTRAL		;Encontramos inquietante vuestra falta de compromiso...
+CANCELTREATY_RESPONSE_ANGRY		;La cancelación de este tratado es más pérdida vuestra que nuestra...
+
+TREATY_PROPOSAL				;¿Qué proponen exactamente?
+TREATY_ACCEPTRESPONSE			;Nos sentimos honrados por su aprobación.\n\n¡Que este acuerdo sea sólido y lucrativo!
+TREATY_REJECTRESPONSE			;Qué decepcionante...
+
+TRADESANCTIONS_IMPOSE			;No nos dejáis más remedio que imponer sanciones comerciales contra ustedes.\n\nEsperamos que aprendan a ser razonables, pero hasta ese momento todo el comercio entre nuestros dos imperios se terminó
+TRADESANCTIONS_IMPOSE_RESPONSE_ANGRY	;Nuestras sospechas han sido confirmadas: vosotros actuáis sin honor
+TRADESANCTIONS_IMPOSE_RESPONSE_NEUTRAL	;Deberíais tener la cautela de no asumir más de lo que os podéis encargar...
+TRADESANCTIONS_IMPOSE_RESPONSE_SURPRISED	;¡Estamos profundamente consternados por vuestra traición!\n\n¿Estáis seguro de esto?
+TRADESANCTIONS_LIFT			;Nuestras sanciones comerciales contra ustedes han sido levantadas.\n\nEl comercio normal se reanudará ahora entre nosotros
+TRADESANCTIONS_LIFT_RESPONSE		;Damos la bienvenida a un retorno al comercio libre y abierto con ustedes
+
+WAR_DECLARE				;No podemos tolerar más vuestra cruel tiranía. Declaramos formalmente la GUERRA a vuestro vil imperio.\n\n¡Acabaremos con vuestra criminal opresión!
+WAR_DECLARE_RESPONSE_EAGER		;¡Habéis encendido el fuego, sin embargo USTEDES serán los consumidos por él!
+WAR_DECLARE_RESPONSE_NEUTRAL		;Vuestro exceso de confianza no tiene fundamento - esto no terminará bien para ustedes
+WAR_DECLARE_RESPONSE_SURPRISED		;¡Estamos conmocionados por vuestra deshonrosa traición!\n\n¡Nunca olvidaremos esta traición!
+
+WAR_END					;Esta guerra continúa sin fin.\n\nUn alto el fuego es de rigor, ¿no están de acuerdo?
+WAR_END_ACCEPT				;Estamos de acuerdo con el cese de hostilidades. Nuestras fuerzas se están retirando de una vez
+WAR_END_REJECT				;No, esta guerra continuará
+
+GIFT_GIVE				;Os enviamos un obsequio de {0} créditos.\n\nPuede ayudar a fomentar las buenas relaciones entre nuestros dos grandes imperios
+GIFT_THANKS				;Gracias por vuestro regalo. Fue un gesto amable
+
+WARNING						;¿Una advertencia para nosotros? ¿Qué pasa?
+WARNING_INTELLIGENCEMISSIONS			;Estamos al tanto de vuestras misiones secretas contra nosotros. ¡Deténganlas de una vez o enfréntense a las consecuencias!
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_FRIENDLY	;¿Misiones secretas contra nuestros amigos? Eso sería muy improbable.\n\nNo obstante, investigaremos sus alegatos
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_NEUTRAL	;Gracias por vuestra advertencia
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_ANGRY	;¿Misiones secretas contra ustedes?\n\n¿Por qué querríamos hacer tal cosa?\n\nTal vez deberían pensar en la respuesta a esa pregunta...
+WARNING_ATTACKS					;¡Sus atroces ataques militares contra nosotros deben cesar de inmediato!\n\n¡Os avisamos que defenderemos nuestro territorio con una fuerza letal!
+WARNING_ATTACKS_RESPONSE_FRIENDLY		;¡Esta noticia es profundamente preocupante! Acepte nuestras más sinceras disculpas.\n\nTengan la seguridad de que nos ocuparemos de los renegados comandantes involucrados en estos actos despreciables
+WARNING_ATTACKS_RESPONSE_NEUTRAL		;Investigaremos este asunto y actuaremos del modo apropiado
+WARNING_ATTACKS_RESPONSE_ANGRY			;Con las fuerzas de nuestros dos imperios tan proximas, a veces suceden accidentes.\n\nAsí que sugerimos que retiren sus fuerzas.

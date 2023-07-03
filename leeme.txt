@@ -1,0 +1,6 @@
+Versión 2.0
+Sustituir por los originales en el directorio de instalación del juego.
+Guarda copia de los originales por si acaso.
+Necesita el archivo Gametext.txt traducido en el foro de Punta de Lanza Para que la traducción sirva para jugar.
+Quedan sin traducir el nombre de los recursos y algunos mensajes. No se como traducirlos.
+Listo

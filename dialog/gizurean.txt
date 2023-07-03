@@ -1,0 +1,48 @@
+﻿
+GREETING_INTRODUCTION			;Somos los {0}.\n\nToleramos vuestra penosa presencia.\n\nPor favor, callaos a menos que os pidamos vuestra inútil opinión.
+GREETING_FRIENDLY			;¿Cómo podemos ayudaros, nuestros pobres y atrasados amigos?
+GREETING_NEUTRAL			;¿Tenéis algo útil que decir?
+GREETING_ANGRY				;Hablad rápido, ¡Hay mejores cosas que hacer que escuchar lamentos!
+
+OFFER_FREETRADE				;¡Nos complace ofreceros idiotas indignos un Tratado de Libre Comercio con nuestro maravilloso imperio!\n\nLo sé, realmente no lo merecéis, pero los seres superiores como nosotros a veces desean ayudar a los inferiores.\n\nAsí que, ¿vais a aceptar esta magnífica oferta o no?
+FREETRADE_ACCEPT			;Aceptamos aguantar vuestro pobre imperio con este "Acuerdo de Libre Comercio"
+FREETRADE_REJECT			;No, un Tratado de Libre Comercio con una especie inferior nunca funcionaría
+
+CANCELTREATY				;Cancelamos nuestro {0} con vosotros - ¡nos cansa vuestra estupidez!
+CANCELTREATY_RESPONSE_FRIENDLY		;¡Seguramente no! Os considerábamos tontos atrasados ​​para ser nuestros amigos - ¿a quién podemos insultar y patrocinar ahora?
+CANCELTREATY_RESPONSE_NEUTRAL		;Estamos seguros de que esto importa más a ustedes que a nosotros
+CANCELTREATY_RESPONSE_ANGRY		;Bien - ¡por fin tenemos alivio para vuestras tediosas tonterías!
+
+TREATY_PROPOSAL				;¿Qué ofrece vuestra primitiva civilización?
+TREATY_ACCEPTRESPONSE			;Qué suerte tenéis de ser nuestro socio menor.\n\nSi prestáis atención, ¡incluso tontos como vosotros pueden aprender de nuestro intenso brillo!
+TREATY_REJECTRESPONSE			;Qué necia falta de visión
+
+TRADESANCTIONS_IMPOSE			;¡La hemos tomado con vosotros! ¡Sanciones Comerciales contra vosotros ahora!\n\nNecesitais conocer vuestro sitio - ¡muy por debajo nuestro!
+TRADESANCTIONS_IMPOSE_RESPONSE_ANGRY	;¡¿Sanciones Comerciales?! ¡Pagaréis por este insulto, babosas especie de segunda clase!
+TRADESANCTIONS_IMPOSE_RESPONSE_NEUTRAL	;¡Perder el comercio con ustedes, simplones, no nos afecta!
+TRADESANCTIONS_IMPOSE_RESPONSE_SURPRISED	;¡¿Sanciones Comerciales?! ¿No podéis hablar en serio?\n\n¿No queréis seguir siendo nuestros esclavos, eh, amigos?
+TRADESANCTIONS_LIFT			;Nuestras Sanciones Comerciales se han levantado. Pueden volver a beneficiarse de nuestra superioridad comercial
+TRADESANCTIONS_LIFT_RESPONSE		;¿Vosotros nos impusisteis Sanciones Comerciales? No notamos ninguna perdida
+
+WAR_DECLARE				;¡GUERRA!\n\nYa no podemos tolerar más vuestra inferioridad. Seréis borrados de la galaxia
+WAR_DECLARE_RESPONSE_EAGER		;¡Tontos, NOSOTROS somos los que OS aplastaremos!
+WAR_DECLARE_RESPONSE_NEUTRAL		;Elegisteis Guerra. Guerra tendréis
+WAR_DECLARE_RESPONSE_SURPRISED		;¡Tú escremento traidor! ¡Pagarás por tu traición!
+
+WAR_END					;Esta guerra ya ha durado suficiente - proponemos un alto el fuego inmediato
+WAR_END_ACCEPT				;De acuerdo - esta guerra debería terminar de una vez. Retiraremos nuestras fuerzas si hacéis lo mismo
+WAR_END_REJECT				;No, nosotros nos comprometimos con vuestra destrucción. ¡No podeís evitar vuestro destino!
+
+GIFT_GIVE				;Os damos {0} créditos como muestra de nuestra benevolente superioridad
+GIFT_THANKS				;Gracias. ¡Apreciamos el gran sacrificio de su escuchumizada civilización al brindarnos tal regalo!
+
+WARNING_INTELLIGENCEMISSIONS		;Hemos detectado vuestras nefastas actividades secretas contra nosotros.\n\n¡Detenedlas de inmediato o probad nuestra terrible venganza!
+WARNING_ATTACKS				;¡Detened vuestros ataques contra nuestras naves y bases!\n\nQue sepáis que tomaremos represalias - ¡vuestras débiles fuerzas no nos intimidan!
+
+WARNING						;Compartid vuestra "advertencia" con nosotros\n\nNuestros diplomáticos se asegurarán de archivarla adecuadamente en nuestros archivos
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_FRIENDLY	;¿Misiones secretas contra vosotros?\n\n¿Por qué haríamos eso? Casi nos gustáis
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_NEUTRAL	;No sabemos nada de este incidente, pero podemos estudiarlo por vosotros.\n\nPero por favor intente comprender nuestro punto de vista. Después de todo, realmente no nos preocupan vuestras quejas
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_ANGRY	;¿Misiones secretas? Es cierto, enviamos esas misiones.\n\nSimplemente sois tan indignos de confianza que tenemos que espiaros. Hasta unos simplones como vosotros deberían entender esto
+WARNING_ATTACKS_RESPONSE_FRIENDLY		;¿Ataques de naves? Es posible, sí.\n\nVerificaremos este asunto por vosotros
+WARNING_ATTACKS_RESPONSE_NEUTRAL		;Tenéis mucha razón\n\nPero ya ves, a veces nuestros capitanes ansían prácticar tiro real. ¿Seguro que entiendéis sus sentimientos?
+WARNING_ATTACKS_RESPONSE_ANGRY			;¿Ataques de naves contra vosotros? Por supuesto - ¡no nos gustáis nada!\n\nAdemás intentaremos enviar más, así que no os molestéis en quejaros.

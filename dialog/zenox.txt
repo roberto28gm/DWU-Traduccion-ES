@@ -1,0 +1,51 @@
+﻿
+GREETING_INTRODUCTION			;¡Saludos! Los {0}, nosotros somos.\n\nMucho tenemos que contar, para aquellos lo suficientemente sabios como para escuchar.\n\n¿Sois vosotros sabios? 
+GREETING_FRIENDLY			;Encantados nosotros estamos, de veros.\n\nTenéis tiempo para una historia, ¿verdad?
+GREETING_NEUTRAL			;Bien, ahí vosotros estáis. Venido a hablar con nosotros, vosotros habéis.\n\nContadnoslo todo, tómaos vuestro tiempo
+GREETING_ANGRY				;Hmmm, recordaros, nosotros hacemos. Bastante inoportunos, vosotros sois.\n\nAún así, escuchar tu voz, nosotros hacemos
+
+OFFER_FREETRADE				;Tras muchos prudentes pensamientos, un Tratado de Libre Comercio nosotros os ofrecemos. Considerad vuestra respuesta.\n\nAcordáis, ¿verdad?
+FREETRADE_ACCEPT			;Un Tratado de Libre Comercio con ustedes, nosotros aceptamos.\n\nMuchisimos beneficios, en esto, nosotros vemos
+FREETRADE_REJECT			;Revisado vuestra oferta, nosotros hemos. Sin embargo no interesados ​​en un Tratado de Libre Comercio, estamos.\n\nDemasiado apresurado, para entrar en esto ahora, nosotros creemos
+
+CANCELTREATY				;Pensado mucho en nuestro {0}, nosotros hemos.\n\nHora de terminar esto, nosotros creemos. Cambiado, las cosas han
+CANCELTREATY_RESPONSE_FRIENDLY		;Desafortunado, esto es. El tratado era bueno, nosotros creemos.\n\nPero ahora ha pasado
+CANCELTREATY_RESPONSE_NEUTRAL		;Cosas vienen y cosas van. Esto antes lo hemos visto
+CANCELTREATY_RESPONSE_ANGRY		;Esto es realmente lo mejor.\n\nFiel a nuestros sentimientos, este tratado ya no era
+TREATY_PROPOSAL				;¿Un tratado, dices?\n\nEscuchar tu oferta, nosotros haremos. Considerar nuestra respuesta, nosotros haremos
+TREATY_ACCEPTRESPONSE			;¡Un acuerdo, hemos alcanzado! Muy sutil, este es.\n\nUna historia, ¿la compartiremos con vosotros, amigos?
+TREATY_REJECTRESPONSE			;De lo más insatisfactorio, esto es. Esperanzados en un mejor resultado, nosotros estábamos
+
+TRADESANCTIONS_IMPOSE			;Sanciones Comerciales sobre vosotros. Sí, esto es necesario.\n\nSeguir comerciando con vosotros, nosotros no haremos
+TRADESANCTIONS_IMPOSE_RESPONSE_ANGRY	; Un sarpullido esto es. Hostil también.\n\nSabios, vosotros no sois
+TRADESANCTIONS_IMPOSE_RESPONSE_NEUTRAL	;Ayudar a lo importante, esto no hará.\n\n¿Lograr qué, intentáis vosotros?
+TRADESANCTIONS_IMPOSE_RESPONSE_SURPRISED	;¡Qué violento!\n\nAcabada, nuestra amistad está.\n\nCompartir nuestros secretos con vosotros, nosotros no haremos
+TRADESANCTIONS_LIFT			;Las Sanciones Comerciales en contra vuestra, levantarlas nosotros haremos.\n\nNunca más útiles, son ellas.\n\nAprendido algo, esperamos que vosotros hayáis
+TRADESANCTIONS_LIFT_RESPONSE		;La dirección correcta, vosotros estáis afrontando. Beneficioso, el comercio conjunto es
+
+WAR_DECLARE				;¡Enfadados, nosotros estamos! GUERRA contra vosotros, nosotros comenzamos.\n\nJusticia, nosotros os llevaremos
+WAR_DECLARE_RESPONSE_EAGER		;¡Guerra, nosotros os daremos!\n\nVuestro final, encontraréis. Sabios, vosotros no sois
+WAR_DECLARE_RESPONSE_NEUTRAL		;Vuestra agresión, acabar con vosotros, ella hará.\n\nGrave error, habéis cometido. Luchar con vosotros, nosotros haremos
+WAR_DECLARE_RESPONSE_SURPRISED		;Luchando, ¿disfrutáis?\n\nNada alegre en la guerra hay. Nada bueno en la traición, hay
+
+WAR_END					;Esta guerra, larga y tediosa, es. Cansados de ella, ¿vosotros no estáis?\n\nTerminar la guerra, ¿vosotros acordáis?
+WAR_END_ACCEPT				;Terminar esta guerra, nosotros acordamos. Nuestra lucha, nosotros pararemos
+WAR_END_REJECT				;¡Absolutamente no!\n\n¡Misericordia para vosotros - ninguna tenemos! Aniquilaros, debemos
+
+GIFT_GIVE				;Un regalo nosotros enviamos: {0} créditos. Amistad, buscamos
+GIFT_THANKS				;Por vuestro regalo, nosotros os agradecemos!
+
+WARNING_INTELLIGENCEMISSIONS		;Una advertencia para vosotros, nosotros tenemos: ¡no más misiones secretas contra nosotros!\n\nIrritados, nosotros estamos. Parar, vosotros debéis
+WARNING_ATTACKS				;Parar de atacarnos, vosotros debéis! Advertidos, habéis sido.\n\nIntimidados, no estamos. Respuesta, Nosotros daremos!
+
+WARNING						;Una advertencia, ¿para nosotros tenéis?
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_FRIENDLY	;Conscientes de misiones contra vosotros, no somos.\n\n¿Equivocados, podéis estar?
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_NEUTRAL	;Investigar vuestras acusaciones, nosotros haremos
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_ANGRY	;¿Misiones contra vosotros? ¡Definitivamente, cierto!\n\nApreciaros, nosotros no lo hacemos. Cambiar los metodos, vosotros deberíais
+WARNING_ATTACKS_RESPONSE_FRIENDLY		;Un terrible malentendido, esto es.\n\nReprender a nuestros comandantes, nosotros haremos
+WARNING_ATTACKS_RESPONSE_NEUTRAL		;¿Agresión y violencia, decís? Investigar estos hechos, nosotros haremos
+WARNING_ATTACKS_RESPONSE_ANGRY			;Apreciaros, nosotros no lo hacemos. Por eso os atacamos.\n\nDejar de atacaros, nosotros haremos, tan sólo cuando vuestros métodos cambiéis
+
+HISTORY_OFFER_LOCATIONHINT		;Un lugar secreto, hemos localizado.\n\n¿Oír mas, vosotros queréis?
+HISTORY_LOCATIONHINT			;Apresuraros vosotros debéis, al {0}.\n\nGrandes secretos para ser encontrados, allí están.
+HISTORY_OFFER_STORYCLUE			;Sabios sois. Guardianes de secretos, vosotros podéis ser.\n\nUna historia, nosotros tenemos para ti. Escucharla, tú harás?

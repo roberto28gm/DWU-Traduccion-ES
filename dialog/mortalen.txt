@@ -1,0 +1,64 @@
+﻿
+GREETING_INTRODUCTION			;Saludos estraños. Somos los {0}.\n\nFuerza y ​​honor - estas cosas respetamos. debilidad despreciamos
+GREETING_FRIENDLY			;Di que piensas, amigo
+GREETING_NEUTRAL			;¿Qué te gustaría discutir?
+GREETING_ANGRY				;¡Tú otra vez! ¿Qué quieres esta vez?
+
+PIRATE_PROTECTIONPROPOSE		;¿Buscando algún "seguro" cuando viajando a través de todos esos peligros, sistemas infestos de piratas?\n\nNuestra tarifa por seis meses de protección se muestra a continuación
+PIRATE_PROTECTIONPROPOSEINITIATE	;Creemos que necesitan alguna protección - por otra parte, quién sabe qué podría pasar a todas esas indefensas naves suyas...\n\nPodemos proporcionar seis meses de protección por la modesta cantidad mostrada abajo.\n\nUna ganga, ¿no Crees?
+PIRATE_PROTECTIONACCEPTRESPONSE		;Una decisión sensata.\n\nTus naves están seguras dentro de nuestra zona de seguridad durante los próximos seis meses
+PIRATE_PROTECTIONREJECTRESPONSE		;¡Recortando gastos en seguridad es pura tontería!\n\nA lo mejor necesitas una demostración de que significa una falta de seguridad para sus naves...
+PIRATE_ATTACKOFFER_SINGLEEMPIRE		;Pareces detestar a los viles {0} tanto como nosotros. ¿Cuanto os gustaría eliminar varias de sus bases en nuestra zona?\n\nPodemos hacer que esto suceda por vosotros. Todo lo que pedimos es un justo pago de {1} créditos para cubrir nuestros gastos.\n\nEnvíad el dinero y las cosas comenzarán...
+PIRATE_ATTACKCOMMENCE			;Vuestra transferencia ha sido validada.\n\n¡Nuestras fuerzas están en camino hacia sus objetivos de los {0}!
+
+PIRATE_ALLIANCEPROPOSE			;Nuestro contrato previo con vosotros ha expirado. Sería prudente actualizarlo a una alianza permanente con nosotros.\n\nPor {0} créditos al mes, acordamos proteger vuestras naves. Además, también atacaremos secretamente a vuestros enemigos - sin que os culpen por ello.\n\nUn arreglo de beneficio mutuo. ¿Aceptáis?
+PIRATE_ALLIANCEACCEPTRESPONSE	;Una buena decisión.\n\nConsidéradnos vuestros aliados desde ahora en adelante.\n\nPero, por favor, discúlpad, tenemos que ir y atacar a vuestros enemigos ahora.
+PIRATE_ALLIANCEREJECTRESPONSE	;Parece que os gusta aprender las cosas por las malas.\n\nPero somos profesores pacientes. Prepáraos para ser educados...
+
+OFFER_FREETRADE				;Uníos a nosotros en un Tratado de Libre Comercio. Los beneficios compartidos generarían crecimiento en nuestros dos fuertes imperios.\n\n¿Qué dices?
+FREETRADE_ACCEPT			;Los fuertes deberían unirse entre sí para volverse aún más fuertes. Aceptamos con alegría su oferta de un Tratado de Libre Comercio!
+FREETRADE_REJECT			;Lo sentimos, su oferta de un Tratado de Libre Comercio no nos interesa.\n\nVuestra debilidad sólo sería una carga para nosotros
+
+CANCELTREATY				;Nuestro {0} compartido ya no cumple su propósito. Estamos terminando este acuerdo
+CANCELTREATY_RESPONSE_FRIENDLY		;¡Estamos sorprendidos de vuestra temeridad, amigo!\n\n¿Estáis seguro de esto?
+
+CANCELTREATY_RESPONSE_NEUTRAL		;Vuestro insulto será recordado. La respuesta os llegará a su debido tiempo...
+CANCELTREATY_RESPONSE_ANGRY		;Estamos contentos de librarnos de vuestra débil y tímida civilización
+
+
+TREATY_PROPOSAL				;¿Proponéis un tratado? Escuchemos lo que tenéis en mente
+
+TREATY_ACCEPTRESPONSE			;Nos sentimos honrados por su aceptación. ¡Que nuestros dos poderosos imperios se fortalezcan aún más!
+TREATY_REJECTRESPONSE			;¡No nos tomamos insultos como este a la ligera !\n\nDeberíais vigilar vuestra espalda...
+
+TRADESANCTIONS_IMPOSE			;Vuestra debilidad invita a laagresión: estamos imponiendo Sanciones Comerciales sobre vosotros.\n\n¡Quizás el dolor os enseñe algún respeto!
+TRADESANCTIONS_IMPOSE_RESPONSE_ANGRY	;¡No aceptaremos este insulto criminal! Nuestra venganza llegará cuando menos lo esperéis...
+
+TRADESANCTIONS_IMPOSE_RESPONSE_NEUTRAL	;¿Pretendéis dañarnos?\n\n¡Las Sanciones Comerciales son una medida para débiles! Estamos preparados para algo mucho peor
+TRADESANCTIONS_IMPOSE_RESPONSE_SURPRISED	;No estábamos esperando esto.\n\n¿Estáis buscando pelea?
+
+TRADESANCTIONS_LIFT			;Nuestras Sanciones Comerciales contra vosotros han cumplido su propósito - ahora estamos eliminandolas.\n\nEsperamos que hayáis aprendido algo de respeto
+TRADESANCTIONS_LIFT_RESPONSE		;Muy bien, también reanudaremos el comercio con vosotros
+
+WAR_DECLARE				;Vuestro débil imperio es perfecto para conquistarlo. ¡Os llevamos a la GUERRA!\n\n¡Vuestra débil y decadente civilización será eliminada!
+
+WAR_DECLARE_RESPONSE_EAGER		;¡Vuestra temeridad será vuestro fin! Sólo deberíais emprender batallas que pdáis ganar.\n\nInfligiremos una derrota abrumadora sobre vosotros
+WAR_DECLARE_RESPONSE_NEUTRAL		;Estamos listos para encontraros en la batalla.\n\n¡Victoria para el fuerte!
+WAR_DECLARE_RESPONSE_SURPRISED		;No tenemos ningún deseo de pelear con vosotros.\n\nPero cumpliremos con nuestro deber
+
+WAR_END					;No vemos ningún sentido en prolongar esta guerra. Proponemos un cese inmediato de las hostilidades.\n\n¿Qué dices?
+WAR_END_ACCEPT				;De acuerdo, esta guerra debería terminar. Estamos retirando nuestras fuerzas
+WAR_END_REJECT				;El débil anhela la paz. El fuerte empuja hacia la victoria.\n\nNuestra guerra con vosotros continuará
+GIFT_GIVE				;Os ofrecemos un regalo de {0} créditos.\n\nQue nuestros imperios trabajen juntos con fuerza
+GIFT_THANKS				;Gracias por vuestro regalo
+
+WARNING_INTELLIGENCEMISSIONS		;¡Detestamos vuestras cobardes misiones secretas contra nosotros!\n\n¡Parad vuestra manipuladora intromisión o prepáraos para una pelea abierta!
+WARNING_ATTACKS				;Vuestros injustificables ataques han sido notorios.\n\nSi buscáis guerra, simplemente pedidla. Estaremos encantados de complaceros
+
+WARNING						;¿Cuál es vuestro problema?
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_FRIENDLY	;Lo sentimos. Debe haber habido una confusión en alguna parte.\n\nDetendremos estas misiones de inmediato
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_NEUTRAL	;Vuestra queja ha sido registrada
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_ANGRY	;¿Misiones secretas? ¿sorprendido por esto?\n\n¿Nos consideraríais vuestros amigos? Claramente no lo somos.\n\nAsí que, no deberíais esperar que nos preocupe vuestra advertencia
+WARNING_ATTACKS_RESPONSE_FRIENDLY		;Disculpad. Esto fue un error de nuestra parte.\n\nCastigaremos al comandante infractor y nos aseguraremos de que no vuelva a ocurrir
+WARNING_ATTACKS_RESPONSE_NEUTRAL		;No estamos familiarizados con los detalles de este caso.\n\nPermitidnos investigar más
+WARNING_ATTACKS_RESPONSE_ANGRY			;¿Ataques de naves?\n\nSí, eso es lo que hacemos a nuestros enemigos. Vosotros seréis uno de ellos.\n\n¿Alguna pregunta más?

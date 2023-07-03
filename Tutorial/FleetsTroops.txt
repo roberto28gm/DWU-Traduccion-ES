@@ -1,0 +1,78 @@
+Welcome
+Welcome
+Bienvenido al tutorial de Distant Worlds sobre flotas, tropas y misiones de inteligencia.
+
+Para avanzar en cada paso de este tutorial, haga clic en el botón "Continuar".
+
+Recuerde que puede mover esta ventana del tutorial arrastrándola con el ratón.
+
+Comencemos: haga clic en el botón 'Continuar' a continuación.
+~
+Fleets
+Fleets
+Las flotas te permiten agrupar varios naves militares y asignar misiones a todo el grupo. Esto es útil para coordinar grandes ataques contra objetivos enemigos.
+~
+Fleets - Assigning Ships
+Fleets - Assigning Ships
+Puede asignar cualquiera de sus naves militares a una flota seleccionándolas y luego haciendo clic derecho sobre ellas para mostrar el menú emergente de la misión. Seleccione "Unirse a la flota" en el menú y luego seleccione a qué flota desea unirla en el submenú.
+
+Desde el submenú también puede crear una nueva flota con la nave seleccionada como la primera nave de la nueva flota.
+~
+Fleets - Appearance
+Fleets - Appearance
+Cuando se aleja hasta el nivel de sistema, las flotas aparecen como un ícono de triángulo invertido.
+
+El número de naves de la flota se muestra dentro del símbolo del triángulo.
+~
+Fleets - Selecting
+Fleets - Selecting
+Para seleccionar una de tus flotas, simplemente haz doble clic en cualquier nave de la flota.
+
+Las flotas se gestionan desde la pantalla Flotas (tecla F12).
+~
+Troops
+Troops
+Las tropas defienden tus colonias de la invasión de imperios enemigos. También pueden usarse como fuerzas de ataque para invadir y apoderarse de colonias enemigas.
+~
+Troops - Recruiting
+Troops - Recruiting
+Las tropas se reclutan en sus colonias. Su mantenimiento cuesta dinero, por lo que recluta solamente las tropas que realmente necesitas.
+
+Puedes reclutar tropas desde la pestaña Tropas de la pantalla Colonias (tecla F2).
+
+También puede hacer clic derecho en cualquiera de tus colonias en la vista principal para reclutarlas desde el menú emergente.
+~
+Troops - Transporting
+Troops - Transporting
+Las tropas se pueden embarcar en naves que tienen componentes de almacenamiento de tropas, como en transportes de tropas o en naves militares más grandes. Luego pueden enviarse a otra colonia y desembarcar allí para reforzarla. O pueden usarse como fuerza de invasión en una colonia enemiga.
+
+Las tropas de tu imperio se pueden gestionar desde la pantalla Tropas.
+~
+Intelligence Missions
+Intelligence Missions
+Las misiones de inteligencia te permiten infiltrarte en secreto en otros imperios y robar o destruir sus activos.
+
+Los agentes de inteligencia son especialistas altamente entrenados y capacitados que se utilizan para cumplir estas misiones.
+
+Tus agentes pueden administrarse desde la pantalla Personajes (tecla F4).
+~
+Assigning missions
+Assigning missions
+El panel de resumen de la misión en la parte inferior derecha de la pantalla te permite asignar misiones a los agentes.
+
+Selecciona un imperio como objetivo de la misión y un tipo de misión.
+
+Cuanto más tiempo dediques a la misión, mayores serán las posibilidades de éxito.
+~
+Counter Intelligence
+Counter Intelligence
+La contrainteligencia también es fundamental para proteger tu imperio. Puedes asignar agentes para evitar misiones de inteligencia enemigas - buscarán espías y saboteadores de forma activa y te informarán de cualquier descubrimiento.
+
+Ten cuidado con las consecuencias negativas de las misiones de inteligencia fallidas- si otro imperio descubre tus acciones contra ellos, reducirá drásticamente su estima respcto de tu imperio e incluso podría conducir a la guerra.
+~
+Completed
+Completed
+Gracias por realizar este tutorial.
+
+Consulte la Galactopedia (F1) para obtener información aún más detallada.
+~

@@ -1,0 +1,63 @@
+﻿
+GREETING_INTRODUCTION			;¡Hola divertido alien! {0} somos.\n\nAmigos con ti, seremos!
+GREETING_FRIENDLY			;Bueno verte es, amigo. nosotros ayudar ti, ¿sí?
+GREETING_NEUTRAL			;Nosotros escuchar. Tu hablar
+GREETING_ANGRY				;¿Que basura querer esta vez?
+
+PIRATE_PROTECTIONPROPOSE		;¿Querer que nos protejer a ti? ¡buena idea!\n\nPor tarifa que mostrar poder protejer todas tus naves en nuestra región seis meses.\n\n¿listo para pagar?
+PIRATE_PROTECTIONPROPOSEINITIATE	;Galaxia ser lugar peligroso, tu saber. Fácil ser herido.\n\nPor pequeña tarifa poder protejer todas tus naves en nuestra región seis meses.\n\nDeberías pagar, hmmm?
+PIRATE_PROTECTIONACCEPTRESPONSE		;¡Tu dinero huele muy bien!\n\nNo accidentes a tus naves hasta que gastemos todo el dinero, ok?
+PIRATE_PROTECTIONREJECTRESPONSE		;No pagar - no protección.\n\nMuy simple ser
+PIRATE_PROTECTIONALREADYPAID		;¡Loco alien! ¡Tú ya pagaste!\n\nVuelve más tarde. Nos tomar dinero entonces
+PIRATE_BUYINFO				;Aquí estar todos los secretos que nos conocer.\n\nSimplemente haz clic-click en lo que querer, ok?
+PIRATE_ATTACKOFFER_EMPIRES		;Nos dar gran paliza a cualquiera de la lista.\n\nSólo haz clic-clic a quien desear golpear, ok?
+PIRATE_ATTACKOFFER_SINGLEEMPIRE		;¿No te gustan los {0}? podríamos dar gran paliza a ellos por ti.\n\nNo te preocupes - No lo contaremos a nadie, ¿ok?\n\nSólo pagar {1} créditos y nosotros nos encargamos.\n\n¿Te parece?
+PIRATE_ATTACKCOMMENCE			;Nos conseguimos el dinero. {0} ¡Reciben paliza!\n\nAdiós
+
+PIRATE_ALLIANCEPROPOSE			;Gastamos todo el dinero que nos diste. ¿Qué tal una alianza permanente?\n\nDanos {0} créditos cada mes y nos proteger tus naves y atacar tus enemigos, sin problemas para ti.\n\nBuen trato, ¿sí?
+PIRATE_ALLIANCEACCEPTRESPONSE	;¡Tú más listo de lo que parece!\n\nNosotros amigos siempre ahora - sólo sigue enviando dinero, ok.\n\nTener que ir ahora - ¡nosotros palizar todos tus enemigos!
+PIRATE_ALLIANCEREJECTRESPONSE	;tonto alien!\n\nNos tener que comer, tu saber. No pago, no ayuda para ti - ¿lo captas?
+PIRATE_ALLIANCECANCELRESPONSE	;Muy, muy malo.\n\nNecesitar tu dinero - si no dar, Nos tomaremos él de todos modos.\n\nNo demasiado tarde para cambiar opinión, ¿ok?
+
+OFFER_FREETRADE				;Tu y nos ser amigos - tener  Tratado Libre Comercio. ¡Mucho dinero!\n\nHuele bien, ¿sí?
+FREETRADE_ACCEPT			;¡Muy Feliz tener Tratado Libre Comercio con ti!¡Hora de gran fiesta!
+FREETRADE_REJECT			;No, nos no querer Tratado Libre Comercio.\n\nQuizás mas tarde, ok
+
+CANCELTREATY				;El {0} con ti todo terminado. tuvimos suficiente ahora
+CANCELTREATY_RESPONSE_FRIENDLY		;¿Nos no amigos ahora?¿Apestamos?¿Qué pasa? Muy trite
+CANCELTREATY_RESPONSE_NEUTRAL		;¿Tratado terminado? Ok entonces
+CANCELTREATY_RESPONSE_ANGRY		;No nos gustan tus modales. Tú holer raro, y no buen cazador.\n\nVete ahora
+
+TREATY_PROPOSAL				;Cuéntanos tratado - Nos decir ti si oler bien o mal
+TREATY_ACCEPTRESPONSE			;¡Hacer gran fiesta!¡Bienvenidos amigos!
+TREATY_REJECTRESPONSE			;tú perdiendo muchas gran fiestas, mucha buena caza. Pensar más - Cambiar opinión
+
+TRADESANCTIONS_IMPOSE			;¡Sanciones Comerciales para ti ahora! No más fiesta, no más caza.\n\n¡Nos enseñar ti!
+TRADESANCTIONS_IMPOSE_RESPONSE_ANGRY	;¡Mal, mal!¡tú pagar mucho tiempo!¡Enfadados, enfadados!
+TRADESANCTIONS_IMPOSE_RESPONSE_NEUTRAL	;Tus mercancías apestaban,de todos modos. No dañarnos
+TRADESANCTIONS_IMPOSE_RESPONSE_SURPRISED	;¿No más comercio?¿Por qué?¿No amigos ahora?
+TRADESANCTIONS_LIFT			;Parar Sanciones Comerciales a ti ahora.\n\nVolver a cazar con nos si querer
+TRADESANCTIONS_LIFT_RESPONSE		;Tus mercancías aún apestar. Pero  compramos cosas apestosas ahora
+
+WAR_DECLARE				;¡GUERRA con ti! Tu en gran problema - ¡Nos cazando TI!
+WAR_DECLARE_RESPONSE_EAGER		;Nos no asustados. Nos buenos cazadores. Tú arrepentir
+WAR_DECLARE_RESPONSE_NEUTRAL		;Nos listo para guerra. ¡Nuestras lanzas son afiladas!
+WAR_DECLARE_RESPONSE_SURPRISED		;¡Todo confundido! Nos amigos, tener fiesta juntos - ¡no guerra! Di es error
+
+WAR_END					;Hora de gran caza acabar ahora. Querer fiesta.\n\nFin guerra, si?
+WAR_END_ACCEPT				;Si, nos parar guerra ahora. Listo para gran fiesta
+WAR_END_REJECT				;No, acabamos de empezar caza. No fin guerra ahora. No hora fiesta aún
+
+GIFT_GIVE				;Nos dar ti {0} créditos. ¡Tú poder tener gran fiesta ahora!
+GIFT_THANKS				;¡Gracias por dinero!¡Todo oler bien!
+
+WARNING_INTELLIGENCEMISSIONS		;¡Dejar de espiarnos! nos enfadar con espía soplón.\n\nNo más espionaje - ¡advirtiendo ti!
+WARNING_ATTACKS				;¡Deja de cazar nuestras naves!Todo oler muy mal.\n\nGran advertencia: Nos cazaremos TI si no parar
+
+WARNING						;¿De qué nos advierte?
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_FRIENDLY	;No misiones contra ti, amigo. Nos no espiar
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_NEUTRAL	;¿En serio? No escuchar esto. Lo comprobaré, ¿ok?
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_ANGRY	;¿Espiando ti? Oh sí, no gustar tu - muy apestoso.\n\nAsí que enviar espías. Quizas enviar más si tu seguir apestoso
+WARNING_ATTACKS_RESPONSE_FRIENDLY		;Oh sentir. Nos confundir ti con  algún otro.\n\nNo suceder más
+WARNING_ATTACKS_RESPONSE_NEUTRAL		;Eso no bueno. Nos tener más cuidado, ¿ok?
+WARNING_ATTACKS_RESPONSE_ANGRY			;¿Ataques contra ti? Sí - tú no gustar.\n\nEnviar más ataques si tu no comportar, ¿ok?

@@ -1,0 +1,136 @@
+Welcome
+Welcome
+Bienvenido al tutorial de Distant Worlds sobre investigación, diseño de naves y construcción.
+
+Para avanzar en cada paso de este tutorial, haga clic en el botón "Continuar".
+
+Recuerde que puede mover esta ventana del tutorial arrastrándola con el ratón.
+
+Comencemos: haga clic en el botón 'Continuar' a continuación.
+~
+Research
+Research
+La investigación descubre nuevas tecnologías útiles para la construcción de naves y bases.
+
+También puede proporcionar a tu imperio nuevas posibilidades, como colonizar nuevos tipos de planetas o construir naves y bases más grandes.
+
+Usted elige qué proyectos de investigación se desean realizar en la pantalla Investigación (F7). Cada una de las tres áreas de investigación (Armas, Energía, Alta Tecnología) tiene su propio árbol tecnológico que contiene todos los proyectos de investigación para ese área.
+~
+Research Stations
+Research Stations
+La investigación se realiza en laboratorios de investigación en los puertos espaciales o en otras estaciones dedicadas a la investigación.
+
+A medida que su imperio crece, puede investigar más rápido, lo que requiere más instalaciones de investigación.
+
+Hay varias categorías de investigación diferentes. Cada categoría tiene una colección de componentes que pueden utilizarse en naves o bases.
+~
+Designs
+Designs
+Todas las naves y bases de tu imperio deben basarse en un diseño. Los diseños son plantillas o planos para construir un nave o una base.
+
+Los diseños se realizan seleccionando un conjunto de componentes que brindan toda la funcionalidad requerida para un tipo en particular de nave o base.
+
+A medida que avanza su investigación, se encuentran disponibles componentes más avanzados. Debe actualizar sus diseños para utilizar los componentes mejorados.
+
+Los diseños se gestionan desde la pantalla Diseños (tecla F8).
+~
+Designs Screen
+Designs Screen
+En la pantalla Diseños puede editar un diseño preexistente o crear uno nuevo.
+
+Veamos un diseño preexistente para un nave militar, una fragata.
+~
+Design Detail Screen
+Design Detail Screen
+En la pantalla Detalles del diseño puedes editar o ver un diseño.
+
+Aquí puedes agregar y quitar componentes para personalizar tu diseño según tus propios requisitos.
+
+Los distintos paneles de esta pantalla brindan información detallada sobre el diseño.
+
+Echemos un vistazo a algunos de estos.
+~
+Designs - Role and Tactics
+Designs - Role and Tactics
+Aquí se puede seleccionar una imagen para tu diseño de entre todas las imágenes de naves del juego.
+
+Asigna un rol para el diseño. Esto indicará el propósito de la nave o la base. Cada rol tiene reglas específicas sobre qué tipos de componentes puden estar presentes.
+
+Asigna un comportamiento táctico para cuando esté en combate. Consulta la ayuda en línea para obtener más información sobre tácticas de batalla y tácticas de invasión.
+~
+Designs - Warnings
+Designs - Warnings
+Este panel enumera reglas y recomendaciones para ayudar a producir un diseño válido. A medida que agrega y elimina componentes al diseño, las advertencias se actualizan para identificar los posibles problemas.
+
+Las reglas que están en rojo se deben cumplir para permitir que pueda guardarse el diseño.
+
+Las recomendaciones están en amarillo y se pueden ignorar si lo desea.
+~
+Available Components
+Available Components
+Este panel enumera todos los componentes disponibles que se pueden usar en el diseño.
+
+De forma predeterminada, esta lista se filtra para mostrar solo la versión más reciente de cada tipo de componente.
+~
+Design Components
+Design Components
+Este panel enumera todos los componentes que se utilizan actualmente en el diseño. Esta lista ES efectivamente el diseño.
+
+Utilice los botones Agregar componente y Eliminar componente para modificar tu diseño.
+
+Si el diseño ya se ha utilizado para construir una nave o una base, no puede ser modificado. No puedes cambiar los componentes que utiliza.
+~
+Designs - Component Detail
+Designs - Component Detail
+Este panel proporciona información detallada sobre el componente seleccionado actualmente.
+
+El componente que se muestra aquí cambia a medida que selecciona diferentes componentes en la lista de Componentes disponibles o en la lista de Componentes de diseño.
+~
+Designs - Saving Your Design
+Designs - Saving Your Design
+Cuando hayas terminado de crear su nuevo diseño, hagz clic en el botón Guardar para que el diseño esté disponible para su construcción.
+
+Ten en cuenta que se deben cumplir todos los requisitos del panel Advertencias (en rojo) antes de poder guardar el nuevo diseño.
+~
+Construction
+Construction
+Toda construcción cuesta dinero: debes tener fondos suficientes para comprar nuevas naves y bases.
+
+A medida que aumentas tu nivel tecnológico, aumentan tus posibilidades de construcción. Podrás construir naves y bases progresivamente cada vez más grandes.
+
+Echemos un vistazo a dos formas en las que puedes construir una nueva nave.
+~
+Construction - Main View
+Construction - Main View
+La primera forma de construir una nave nueva es seleccionar la ubicación de la construcción en la vista principal. Puede ser un puerto espacial (para la mayoría de tipos de naves) o una colonia (para naves colonizadoras o naves constructoras).
+
+Con la colonia o el puerto espacial seleccionado, haz clic derecho para que se muestre un menú emergente con la opción "Construir".
+
+El submenú "Construir" enumera todos los diseños que son válidos para construir en esa ubicación. Selecciona uno para comenzar la construcción.
+
+Si no puedes permitirte construir un diseño en particular, apaecerá desactivado en el submenú.
+~
+Construction Yards screen
+Construction Yards screen
+La segunda forma de construir una nueva nave es ir directamente a los Dársenas de construcción del Puerto Espacial. Haz esto haciendo clic en el botón Dársenas de Construcción (tecla F10).
+
+En la pestaña Dársenas de construcción, selecciona una nave para comprarla de la lista desplegable de la derecha. Luego haz clic en el botón "Comprar" para comenzar la construcción.
+
+Si no puedes costear la construcción de la nave seleccionada, tus fondos disponibles parpadearán en rojo.
+~
+Build Order screen
+Build Order screen
+Otra forma muy eficaz de construir nuevas naves es la pantalla Orden de construcción. Abra esta pantalla haciendo clic en el botón Orden de construcción (tecla F9).
+
+En esta pantalla puedes ver tus niveles actuales para cada tipo de nave, así como el número de naves nuevas sugeridas por tus asesores.
+
+Puedes modificar la cantidad de naves para cada tipo y seleccionar un diseño específico para construirlo.
+
+Cuando estés satisfecho con el pedido, haz clic en el botón "Comprar" para comprar las nuevas naves y comenzar la construcción.
+~
+Completed
+Completed
+Gracias por realizar este tutorial.
+
+Consulte la Galactopedia (F1) para obtener información aún más detallada.
+~

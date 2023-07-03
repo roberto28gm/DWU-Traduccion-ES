@@ -1,0 +1,322 @@
+Welcome
+Welcome
+Bienvenido al tutorial avanzado de Distant Worlds.
+
+Si aún no lo ha hecho, siga el tutorial básico del menú principal.
+
+Para avanzar en cada paso de este tutorial, haga clic en el botón "Continuar".
+
+Recuerde que puede mover esta ventana del tutorial arrastrándola con el ratón.
+
+Comencemos: haga clic en el botón 'Continuar' a continuación.
+~
+Introduction
+Introduction
+Este tutorial considerará las herramientas avanzadas disponibles en el juego para expandir y administrar su imperio.
+
+Estas herramientas incluyen:
+- interactuando con otros imperios
+- diseñar y construir nuevas naves y bases
+- utilizando tropas y agentes de inteligencia
+~
+Galaxy Map
+Galaxy Map
+Comencemos por mirar una herramienta que te ayuda a encontrar cosas en una vasta galaxia
+- el Mapa de la Galaxia.
+
+El mapa de la galaxia muestra todo lo que conoce actualmente sobre la galaxia: colonias potenciales, recursos, poblaciones alienígenas, piratas y más.
+
+La información de este mapa se actualiza constantemente gracias a los descubrimientos realizados por las naves de tu imperio.
+
+Se accede al Mapa de la Galaxia usando el botón indicado, o presionando la tecla G.
+~
+Galaxy Map - Select a System
+Galaxy Map - Select a System
+
+Haga clic en el mapa de la galaxia de la izquierda para seleccionar un sistema. Las líneas indicadoras del mapa se ajustarán al sistema más proximo respecto a donde hizo clic.
+~
+Galaxy Map - Select a planet
+Galaxy Map - Select a planet
+Haga clic en el mapa del sistema en la parte superior derecha para seleccionar un planeta, luna o asteroide en concreto.
+
+Igual que en el mapa de la galaxia, las líneas indicadoras del mapa del sistema se ajustarán al planeta más próximo respecto a la ubicación donde hizo clic.
+~
+Galaxy Map - Info Panel
+Galaxy Map - Info Panel
+Los detalles sobre el planeta o la luna seleccionados se muestran en el panel de información en la mitad derecha.
+~
+Galaxy Map - Planet Surface
+Galaxy Map - Planet Surface
+En la parte inferior derecha se muestra una imagen de la superficie del planeta o la luna seleccionados.
+~
+Galaxy Map - Selecting View
+Galaxy Map - Selecting View
+Se puede filtrar el tipo de información que se muestra en el mapa de la galaxia y el de sistemas seleccionando una vista de la lista desplegable.
+
+Los sistemas y planetas que coinciden con la vista seleccionada aparecen en amarillo en el mapa de la galaxia y el de sistemas.
+~
+Expansion Planner
+Expansion Planner
+La pantalla del Planificador de Expansión proporciona herramientas poderosas para ayudarte a planificar la localización de tu próxima colonia o estación minera.
+
+Desde aquí puedes asignar misiones a tus naves colonizadoras y naves de construcción, usándolas para expandir tu imperio.
+
+Abra la pantalla del Planificador de Expansión usando el botón indicado o presionando F3.
+~
+Expansion Planner - Resources
+Expansion Planner - Resources
+La parte superior de la pantalla muestra el estado actual de todos los recursos de la galaxia, incluido su valor actual y el nivel de demanda.
+
+Se puede usar esta información para decidir qué planetas se deben minar para obtener recursos.
+~
+Expansion Planner - Targets
+Expansion Planner - Targets
+La lista inferior puede ser cambiada para mostrar varios tipos de objetivos: colonias potenciales, ubicaciones potenciales de minería, etc. Utilice la lista desplegable para cambiar la información que se muestra aquí.
+
+Cuando se selecciona un objetivo de la lista, su ubicación en la galaxia se muestra en el mapa de la derecha. Puedes usar los botones en la parte inferior para enviar una nave colonizadora o una nave de construcción a esa ubicación.
+~
+Diplomacy & Other Empires
+Diplomacy & Other Empires
+A medida que explora la galaxia, se encontrará con otros imperios.
+
+Puede formar tratados beneficiosos con imperios amigos.
+
+Pero si las relaciones con otro imperio se deterioran, podrías verte recibiendo sanciones comerciales o incluso en guerra.
+
+Puede controlar las relaciones diplomáticas desde la pantalla Diplomacia (tecla F5)
+~
+Diplomacy - Influences
+Diplomacy - Influences
+La pantalla de diplomacia muestra todas las relaciones del imperio seleccionado. Cada relación muestra el volumen comercial anual total entre los dos imperios.
+
+Muchos factores influyen en las relaciones entre imperios, pero algunos importantes son:
+- El volumen de comercio entre imperios
+- La rivalidad por sistemas y recursos
+- La complacencia o antipatía por el tipo de gobierno de un imperio
+~
+Diplomacy - Selected Empire
+Diplomacy - Selected Empire
+Un resumen del imperio seleccionado aparece a la derecha. Este muestra la bandera del imperio y la raza dominante.
+
+Nuestras relaciones actuales con el imperio seleccionado aparecen en la parte inferior.
+
+Se puede iniciar una conversación con el imperio seleccionado haciendo clic en el botón Conversar en la parte superior derecha.
+~
+Diplomacy - Conversations
+Diplomacy - Conversations
+En la pantalla de conversación puedes seleccionar entre las opciones del panel inferior.
+
+Esto incluye enviar advertencias, cambiar tus relaciones (proponer tratados, declarar la guerra) u ofrecer obsequios.
+~
+Trade Sanctions & Blockades
+Trade Sanctions & Blockades
+Las sanciones comerciales se dan cuando un imperio se niega a comerciar con otro imperio. No se comprarán ni venderán recursos entre los dos imperios.
+
+Cuando existen sanciones comerciales entre dos imperios, se pueden declarar bloqueos contra las colonias y los puertos espaciales enemigos. En esta situación, NINGÚN imperio puede comerciar con la colonia o base bloqueada. Los bloqueos son reforzados por naves militares del imperio que los inicia.
+
+Consulte la Galactopedia (F1) para obtener más información sobre cómo iniciar bloqueos.
+~
+Empire Comparisons
+Empire Comparisons
+Puedes realizar un seguimiento de cómo te comparas con otros imperios en la pantalla de comparación de imperios.
+
+Abra esta pantalla usando el botón indicado o la tecla V.
+~
+Victory Conditions
+Victory Conditions
+Aquí se muestra el progreso de cada imperio hacia el cumplimiento de las condiciones de victoria.
+
+Esto incluye las condiciones de victoria específicas de cada raza. Únicas para cada imperio.
+~
+Empire Comparison Graphs
+Empire Comparison Graphs
+Aquí también puede ver gráficos que muestran clasificaciones ordenadas de todos los imperios conocidos en función de varios factores diferentes.
+~
+Research
+Research
+La investigación descubre nuevas tecnologías para su uso en la construcción de naves y bases.
+
+También puede proporcionar a tu imperio nuevas capacidades, como colonizar nuevos tipos de planetas o construir naves y bases más grandes.
+
+Usted elige qué proyectos de investigación desea realizar en la pantalla Investigación (F7). Cada una de las tres áreas de investigación (Armas, Energía, Alta Tecnología) tiene su propio árbol tecnológico que contiene todos los proyectos de investigación para esa área.
+~
+Research Stations
+Research Stations
+La investigación se realiza en laboratorios de investigación en los puertos espaciales u otras estaciones dedicadas a la investigación.
+
+A medida que tu imperio crece, puedes investigar más rápido, lo cual requiere más instalaciones de investigación.
+
+Hay varias categorías de investigación diferentes. Cada categoría tiene una colección de componentes que se pueden utilizar en naves o bases.
+~
+Designs
+Designs
+Todas las naves y bases de tu imperio deben basarse en un diseño. Los diseños son plantillas o planos para construir una nave o una base.
+
+Los diseños se realizan seleccionando un conjunto de componentes que proporcionan toda la funcionalidad requerida para el tipo particular de nave o base.
+
+A medida que avanza tu investigación, se encuentran disponibles componentes más avanzados. Debes actualizar tus diseños para utilizar los componentes que se han mejorado.
+
+Los diseños se gestionan desde la pantalla Diseños (tecla F8).
+~
+Designs Screen
+Designs Screen
+En la pantalla Diseños puede editar un diseño existente o crear uno nuevo.
+
+Veamos un diseño existente para una nave militar, una fragata.
+~
+Design Detail Screen
+Design Detail Screen
+En la pantalla Detalles del diseño puedes editar o ver un diseño.
+
+Aquí puedes agregar y quitar componentes para personalizar tu diseño según tus propios requisitos especiales.
+
+Los distintos paneles de esta pantalla brindan información detallada sobre el diseño.
+
+Echemos un vistazo a algunos de ellos.
+~
+Designs - Role and Tactics
+Designs - Role and Tactics
+Aquí puedes seleccionar una imagen para tu diseño de cualquiera de las imágenes de naves del juego.
+
+Asigna un rol para el diseño. Esto indicará el propósito de la nave o base. Cada rol tiene reglas específicas sobre qué tipos de componentes deben estar presentes.
+
+Asigna un comportamiento táctico para cuando esté en combate utilizando las tácticas de batalla e invasión. Consulte la ayuda en línea para obtener más información sobre tácticas de batalla y tácticas de invasión.
+~
+Designs - Warnings
+Designs - Warnings
+Este panel enumera reglas y recomendaciones para ayudar a producir un diseño válido. A medida que agrega y elimina componentes al diseño, las advertencias se actualizan para identificar los problemas actuales.
+
+Las reglas en rojo deben cumplirse para permitir que se pueda guardar el diseño.
+
+Las recomendaciones en amarillo se pueden ignorar si se desea.
+~
+Available Components
+Available Components
+Este panel enumera todos los componentes disponibles que se pueden usar en el diseño.
+
+De forma predeterminada, esta lista filtra para mostrar solo la versión más reciente de cada tipo de componente.
+~
+Design Components
+Design Components
+Este panel enumera todos los componentes que se están usando actualmente en el diseño. Esta lista ES de hecho el diseño.
+
+Utilice los botones Agregar componente y Eliminar componente para modificar tu diseño.
+
+Si el diseño ya se ha utilizado para construir una nave o una base, no se puede modificar. No se pueden cambiar los componentes utilizados.
+~
+Designs - Component Detail
+Designs - Component Detail
+Este panel proporciona información detallada sobre el componente seleccionado actualmente.
+
+El componente que se muestra aquí cambia a medida que selecciona diferentes componentes en la lista Componentes Disponibles o en la lista Componentes de Diseño.
+~
+Designs - Saving Your Design
+Designs - Saving Your Design
+Cuando haya terminado de crear su nuevo diseño, haga clic en el botón Guardar para que el diseño esté disponible para poder construirlo.
+
+Tenga en cuenta que se deben cumplir todos los requisitos del panel Advertencias (en rojo) antes de poder guardar el nuevo diseño.
+~
+Construction
+Construction
+Toda construcción cuesta dinero: debes tener fondos suficientes para comprar nuevas naves y bases.
+
+A medida que aumenta tu nivel tecnológico, aumentan tus habilidades de construcción. Podrás construir naves y bases más grandes progresivamente.
+
+Echemos un vistazo a dos formas en las que puedes construir una nueva nave.
+~
+Construction - Main View
+Construction - Main View
+La primera forma de construir una nave nueva es seleccionar la ubicación de la construcción en la vista principal. La ubicación de la construcción puede ser un puerto espacial (para la mayoría de los tipos de naves) o una colonia (para naves coloniales o naves de construcción).
+
+Con tu colonia o puerto espacial seleccionado, haz clic derecho para mostrar un menú emergente con la opción de "Construir".
+
+El submenú "Construir" enumera todos los diseños que son válidos para construir en esa ubicación. Selecciona uno para comenzar la construcción.
+
+Si no se puede permitir construir un diseño en concreto, se desactivará en el submenú.
+~
+Construction Yards screen
+Construction Yards screen
+La segunda forma de construir una nueva nave implica saltar directamente a las Dársenas de construcción del Puerto Espacial. Haz esto haciendo clic en el botón Dársenas de Construcción (tecla F10).
+
+En la pestaña Dársenas de construcción, selecciona una nave para comprar de la lista desplegable a la derecha. Luego haga clic en el botón "Comprar" para comenzar la construcción.
+
+Si no puede permitirse construir la nave seleccionada, tus Fondos disponibles parpadearán en rojo.
+~
+Build Order screen
+Build Order screen
+Otra forma muy eficaz de construir nuevas naves es la pantalla Orden de construcción. Abra esta pantalla haciendo clic en el botón Orden de construcción (tecla F9).
+
+En esta pantalla puedes ver tus niveles actuales para cada tipo de nave, así como el número de naves nuevas sugeridas por tus asesores.
+
+Puedes modificar la cantidad de naves para cada tipo y seleccionar un diseño específico a construir.
+
+Cuando esté satisfecho con el pedido, haga clic en el botón "Comprar" para comprar las nuevas naves y comenzará la construcción.
+~
+Fleets
+Fleets
+Las flotas te permiten agrupar varias naves militares y asignar misiones a todo el grupo. Esto es útil para coordinar grandes ataques contra objetivos enemigos.
+~
+Fleets - Assigning Ships
+Fleets - Assigning Ships
+Puede asignar cualquiera de tus naves militares a una flota seleccionándolos y luego haciendo clic derecho sobre ellos para mostrar el menú emergente de la misión. Selecciona "Unirse a la flota" en el menú y luego selecciona a qué flota desea unirse en el submenú.
+
+Desde el submenú también puedes crear una nueva flota con la nave seleccionado como la primera nave de la flota.
+~
+Fleets - Appearance
+Fleets - Appearance
+Cuando se aleja al nivel del sistema, las flotas aparecen como un ícono de triángulo invertido.
+
+El número de naves de la flota se muestra dentro del símbolo del triángulo.
+~
+Fleets - Selecting
+Fleets - Selecting
+Para seleccionar una de tus flotas, simplemente haz doble clic en cualquier nave de la flota.
+
+Las flotas se gestionan desde la pantalla Flotas (tecla F12).
+~
+Troops
+Troops
+Las tropas defienden tus colonias contra la invasión de imperios enemigos. También se pueden utilizar como fuerzas de ataque para invadir y apoderarse de colonias enemigas.
+~
+Troops - Recruiting
+Troops - Recruiting
+Las tropas se reclutan en tus colonias. Su mantenimiento cuesta dinero, por lo que recluta solo las tropas que realmente necesites.
+
+Puedes reclutar tropas desde la pestaña Tropas de la pantalla Colonias (tecla F2).
+
+También puedes hacer clic derecho en cualquiera de tus colonias en la vista principal para reclutarlas desde el menú emergente.
+~
+Troops - Transporting
+Troops - Transporting
+Las tropas se pueden cargar en naves que tienen componentes de almacenamiento de tropas, como transportes de tropas o naves militares más grandes. Luego pueden enviarse a otra colonia y descargarse allí para reforzarla. O pueden usarse como fuerza de invasión en una colonia enemiga.
+
+Las tropas de tu imperio se pueden gestionar desde la pantalla Tropas.
+~
+Intelligence Missions
+Intelligence Missions
+Las misiones de inteligencia te permiten infiltrarte en secreto en otros imperios y robar o destruir sus activos.
+
+Los agentes de inteligencia son los especialistas altamente capacitados y capacitados que utilizas para cumplir estas misiones.
+
+Tus agentes pueden administrarse desde la pantalla Personajes (tecla F4).
+~
+Assigning missions
+Assigning missions
+El panel de resumen de la misión en la parte inferior derecha de la pantalla te permite asignar misiones a los agentes.
+
+Selecciona un imperio objetivo para la misión y un tipo de misión.
+
+Cuanto más tiempo dediques a la misión, mayores serán las posibilidades de éxito.
+~
+Counter Intelligence
+Counter Intelligence
+La contrainteligencia también es fundamental para proteger tu imperio. Puedes asignar agentes para evitar misiones de inteligencia enemigas: buscarán espías y saboteadores de forma activa y te informarán de cualquier descubrimiento.
+
+Ten cuidado con las consecuencias negativas de las misiones de inteligencia fallidas: si otro imperio descubre tus acciones contra él, reducirá drásticamente su estima hacia tu imperio e incluso podría conducir a la guerra.
+~
+Completed
+Completed
+Gracias por realizar este tutorial.
+
+Consulte la Galactopedia (F1) para obtener información aún más detallada.
+~

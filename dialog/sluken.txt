@@ -1,0 +1,55 @@
+﻿
+GREETING_INTRODUCTION			;Somos los {0}.\n\nBuscamos el dominio total sobre todo.\n\nOs inclinaréis ante nosotros o deberemos conquistaros?
+GREETING_FRIENDLY			;¿Qué plan de conquista habéis venido a compartir con nosotros, amigos?
+GREETING_NEUTRAL			;Explique su presencia ante nosotros
+GREETING_ANGRY				;¿Vienes a hablar con nosotros, enemigo?\n\n¿Qué oferta pacificadora tienes para nosotros?
+
+PIRATE_PROTECTIONPROPOSE		;¿Buscáis protección? Podemos garantizar la seguridad de todas vuestras naves mientras viajan cruzando nuestro territorio.\n\nEl precio por seis meses de protección se muestra abajo
+PIRATE_PROTECTIONPROPOSEINITIATE	;El espacio es un lugar frío y peligroso.\n\nPero podemos garantizar la seguridad de todas vuestras naves mientras viajen por nuestro territorio.\n\nEl precio por seis meses de protección se muestra abajo.\n\n¿Qué dices?
+PIRATE_PROTECTIONACCEPTRESPONSE		;¡Una elección muy sabia!\n\nPodemos garantizar que ninguna de vuestras naves sufrirá ningún "accidente desafortunado".\n\nAl menos, no hasta que se solicite el proximo pago...
+PIRATE_PROTECTIONREJECTRESPONSE		;De lo más imprudente. Sin pago, no podemos garantizar la seguridad de vuestras naves.\n\n¿Tal vez deberíais reconsiderarlo?
+PIRATE_PROTECTIONALREADYPAID		;Admiramos vuestro entusiasmo, pero ya nos habéis pagado la protección.\n\nVuelvan cuando expire su período de protección actual.\n\nCon mucho gusto aceptaremos pagos adicionales entonces.
+PIRATE_ATTACKOFFER_SINGLEEMPIRE		;¿Están los {0} dandote guerra? Si lo deseáis, podríamos "encargarnos" de ellos por ustedes...\n\nLo mantendríamos en secreto, por supuesto, así que no se preocupen por que los {0} descubran nuestro acuerdo.\n\nTodo lo que Pedimos por este servicio es un pequeño pago de {1} créditos.\n\n¿Qué dices?
+PIRATE_ATTACKCOMMENCE			;¡Una excelente manera de gastar vuestro dinero!\n\n¡Nuestros ataques contra los {0} comenzarán de inmediato!
+
+OFFER_FREETRADE				;¿Os someteréis a un Tratado de Libre Comercio con nosotros?\n\nAmbas economías se beneficiarán enormemente. Y ademas podremos evaluar la posibilidad de una conquista posterior.\n\n¿Qué decís?
+FREETRADE_ACCEPT			;Un Tratado de Libre Comercio sería muy útil. Aceptamos
+FREETRADE_REJECT			;No, no estamos interesados ​​en un Tratado de Libre Comercio.\n\nTenemos otros planes para vosotros...
+
+CANCELTREATY				;Nuestro {0} con vosotros ha terminado.\n\n"Terminado" - ¡cuánto amo esa palabra!Suena tan bien, ¿no crees?
+CANCELTREATY_RESPONSE_FRIENDLY		;Solíamos gustaros.\n\nPero tal vez juzgamos mal las cosas...
+CANCELTREATY_RESPONSE_NEUTRAL		;Muy bien entonces. Tomamos nota de vuestro insulto
+CANCELTREATY_RESPONSE_ANGRY		;Bueno, bueno. Este tratado estaba estorbando nuestros planes de todos modos
+
+TREATY_PROPOSAL				;¿Qué proponéis exactamente?
+TREATY_ACCEPTRESPONSE			;¡Excelente!\n\nEsperamos que seáis aliados obedientes y sumisos. ¿Los seréis?
+TREATY_REJECTRESPONSE			;Cada uno por su lado\n\nEso no es un aspecto que nos guste
+
+TRADESANCTIONS_IMPOSE			;Ha llegado la hora de que os relajéis: ¡os imponemos Sanciones Comerciales!\n\nNo os molestéis en responder; no nos interesa vuestra respuesta
+TRADESANCTIONS_IMPOSE_RESPONSE_ANGRY	;¡Os enfurecemos!\n\nNo penséis que sois lo bastante fuertes como para desafiarnos - no lo sois.
+TRADESANCTIONS_IMPOSE_RESPONSE_NEUTRAL	;Si nos importara esto, podríamos estar enojados.\n\nPero no es así, así que no
+TRADESANCTIONS_IMPOSE_RESPONSE_SURPRISED	;Admitimos que vuestra acción nos ha sorprendido.\n\nPero gracias por identificaros como nuestros enemigos.\n\nTened por seguro que nos ocuparemos de vosotros cuando estemos listos...
+TRADESANCTIONS_LIFT			;Os levantaremos nuestras sanciones comerciales\n\nParece que os habéis vuelto mucho más obedientes. Aprendisteis la lección
+TRADESANCTIONS_LIFT_RESPONSE		;Esto parece ser muy importante para vosotros.\n\nPero no para nosotros
+
+WAR_DECLARE				;Ha llegado la hora de ser absorbidos por nuestro poderoso imperio: ¡os declaramos la GUERRA!\n\nVuestra conquista será rápida y total.\n\nPor favor no pidáis piedad - no la habrá
+WAR_DECLARE_RESPONSE_EAGER		;Qué irónico - ¡estábamos a punto de declararos la guerra! Es tan conveniente.\n\nY ahora debéis morir...
+WAR_DECLARE_RESPONSE_NEUTRAL		;¡Qué valientes - atreveros a enfrentaros a nosotros!\n\nPor supuesto, la valentía y la necedad están relacionadas.\n\nMuy estrechamente, en este caso
+WAR_DECLARE_RESPONSE_SURPRISED		;¡Estáis llenos de sorpresas!\n\nPero siempre damos la bienvenida a una buena pelea.\n\n¡Que gane el mejor! - esos somos nosotros, por supuesto
+
+WAR_END					;Es hora de que termine esta guerra. Ya terminaremos con vosotros más tarde.\n\n¿Qué decís?
+WAR_END_ACCEPT				;Por una vez estamos de acuerdo - esta guerra debería terminar.\n\nNuestras fuerzas se están retirando
+WAR_END_REJECT				;¡¿Acabar la guerra?!\n\nSólo los débiles anhelan reducir sus pérdidas. Los fuertes avanzan hacia la conquista. Ustedes son los débiles y nosotros los fuertes.\n\nEsta guerra aún no ha terminado
+
+GIFT_GIVE				;Tenemos un obsequio para vosotros de {0} créditos.\n\nNo está en nuestra naturaleza ser tan amables.\n\nPor lo tanto, sería prudente que vierais esto como una cínica táctica
+GIFT_THANKS				;Gracias por vuestro regalo.\n\nNos recordáis al enemigo conquistado que rinde sus tributos
+
+WARNING						;¿Quieres avisarnos?\n\nAdelante, desperdiciad vuestra saliba con nosotros
+WARNING_INTELLIGENCEMISSIONS			;Sabemos de vuestras misiones secretas contra nosotros.\n\nDaos por avisados que podemos daros una lección a traición que nunca olvidaréis...\n\nDetened vuestras misiones ahora, mientras podáis
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_FRIENDLY	;¿Misiones secretas en vuestra contra? Que escandalo
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_NEUTRAL	;No os preocupéis. Es sólo nuestra vigilancia rutinaria a vuestro imperio.\n\nNada siniestro de qué preocuparse
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_ANGRY	;¿Misiones secretas? Eso normalmente indicaría preparativos para la guerra.\n\nPero seguramente este no es el caso. Así que no os preocupéis por esto...
+WARNING_ATTACKS					;¡Detened vuestros descarados ataques a nuestras naves y bases!\n\nEstas acciones os colocan en un terreno muy peligroso. Os advertimos que paréis ahora
+WARNING_ATTACKS_RESPONSE_FRIENDLY		;¿Ataques contra vosotros? Esto nos molesta tanto
+WARNING_ATTACKS_RESPONSE_NEUTRAL		;¡¿Ataques contra VOSOTROS?!\n\nNo, no - nuestras naves se defendían de los ataques de vuestras fuerzas.\n\nPor favor, que no vuelva a ocurrir
+WARNING_ATTACKS_RESPONSE_ANGRY			;¿Ataques?\n\nSí, os estamos debilitando antes de lanzar un asalto total.\n\n¿Algo más que os gustaría discutir?

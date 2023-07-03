@@ -1,0 +1,128 @@
+Welcome
+Welcome
+Bienvenido al tutorial de Distant Worlds sobre Expansión y Diplomacia.
+
+Para avanzar en cada paso de este tutorial, haga clic en el botón "Continuar".
+
+Recuerde que puede mover esta ventana del tutorial arrastrándola con el ratón.
+
+Comencemos: haga clic en el botón 'Continuar' a continuación.
+~
+Galaxy Map
+Galaxy Map
+Comencemos por mirar una herramienta que te ayuda a encontrar cosas en una vasta galaxia: el Mapa de la Galaxia.
+
+El mapa de la galaxia muestra todo lo que sabe actualmente sobre la galaxia: colonias potenciales, recursos, poblaciones alienígenas, piratas y más.
+
+La información de este mapa se actualiza constantemente gracias a los descubrimientos realizados por los naves de tu imperio.
+
+Se accede al Mapa de la Galaxia usando el botón indicado, o presionando la tecla G.
+~
+Galaxy Map - Select a System
+Galaxy Map - Select a System
+
+Haz clic en el mapa de galaxias a la izquierda para seleccionar un sistema. Las líneas indicadoras del mapa se ajustarán al sistema más cercano al lugar donde hizo clic.
+~
+Galaxy Map - Select a planet
+Galaxy Map - Select a planet
+Haz clic en el mapa del sistema en la parte superior derecha para seleccionar un planeta, luna o asteroide en particular.
+
+Como en el mapa de galaxias, las líneas indicadoras del mapa del sistema se ajustarán al planeta más cercano al lugar donde hizo clic.
+~
+Galaxy Map - Info Panel
+Galaxy Map - Info Panel
+Los detalles sobre el planeta o la luna seleccionados se muestran en el panel de información en la mitad derecha.
+~
+Galaxy Map - Planet Surface
+Galaxy Map - Planet Surface
+En la parte inferior derecha se muestra una imagen de la superficie del planeta o la luna seleccionados.
+~
+Galaxy Map - Selecting View
+Galaxy Map - Selecting View
+Puede filtrar el tipo de información que se muestra en los mapas de galaxias y sistemas seleccionando una vista de la lista desplegable.
+
+Los sistemas y planetas que coinciden con la vista seleccionada aparecen en amarillo en los mapas de galaxias y sistemas.
+~
+Expansion Planner
+Expansion Planner
+La pantalla del Planificador de expansión proporciona herramientas poderosas para ayudarte a planificar la localización de tu próxima colonia o estación minera.
+
+Desde aquí puedes asignar misiones a tus naves colonizadoras y naves constructoras, usándolas para expandir tu imperio.
+
+Abre la pantalla del Planificador de expansión usando el botón indicado o presionando F3.
+~
+Expansion Planner - Resources
+Expansion Planner - Resources
+La parte superior de la pantalla muestra el estado actual de todos los recursos de la galaxia, incluido su valor actual y el nivel de demanda.
+
+Puedes usar esta información para decidir qué planetas debes minar para obtener recursos.
+~
+Expansion Planner - Targets
+Expansion Planner - Targets
+La lista inferior puede cambiarse para mostrar varios tipos de objetivos: colonias potenciales, ubicaciones potenciales de minería, etc. Utiliza la lista desplegable para cambiar la información que se muestra aquí.
+
+Cuando selecciona un objetivo de la lista, su ubicación en la galaxia se muestra en el mapa de la derecha. Puede usar los botones en la parte inferior para enviar una nave colonizadora o una nave constructora a dicha localización.
+~
+Diplomacy & Other Empires
+Diplomacy & Other Empires
+A medida que explora la galaxia, se encontrará con otros imperios.
+
+Puede formar tratados beneficiosos con imperios amigos.
+
+Pero si las relaciones con otro imperio se deterioran, podría verse recibiendo sanciones comerciales o incluso en guerra.
+
+Puede controlar las relaciones diplomáticas desde la pantalla Diplomacia (tecla F5)
+~
+Diplomacy - Influences
+Diplomacy - Influences
+La pantalla de diplomacia muestra todas las relaciones del imperio seleccionado. Cada relación muestra el volumen comercial anual total entre los dos imperios.
+
+Muchos factores influyen en las relaciones entre imperios, pero algunos importantes son:
+- El volumen de comercio entre imperios
+- La rivalidad por el control de sistemas y recursos
+- Simpatia o aversion por el tipo de gobierno existente
+~
+Diplomacy - Selected Empire
+Diplomacy - Selected Empire
+Un resumen del imperio seleccionado aparece a la derecha. Este muestra la bandera del imperio y la raza dominante.
+
+La relación actual del imperio seleccionado con nosotros aparece en la parte inferior.
+
+Puede iniciar una conversación con el imperio seleccionado haciendo clic en el botón conversar en la parte superior derecha.
+~
+Diplomacy - Conversations
+Diplomacy - Conversations
+En la pantalla de conversación, puedes seleccionar entre las opciones del panel inferior.
+
+Esto incluye enviar advertencias, cambiar tu relación (proponer tratados, declarar la guerra) u ofrecer obsequios.
+~
+Trade Sanctions & Blockades
+Trade Sanctions & Blockades
+Las sanciones comerciales se dan cuando un imperio se niega a comerciar con otro imperio. No se comprarán ni venderán recursos entre los dos imperios.
+
+Cuando existen sanciones comerciales entre dos imperios, se pueden declarar bloqueos contra las colonias enemigas y sus puertos espaciales. En esta situación, NINGÚN imperio puede comerciar con la colonia o base bloqueada. Los bloqueos son reforzados por naves militares del imperio que los inicia.
+
+Consulte la Galactopedia (F1) para obtener más información sobre cómo iniciar bloqueos.
+~
+Empire Comparisons
+Empire Comparisons
+Puedes comparar tu situación con otros imperios en la pantalla de comparación de imperios.
+
+Abra esta pantalla usando el botón indicado o la tecla V.
+~
+Victory Conditions
+Victory Conditions
+Aquí se muestra el progreso de cada imperio hacia el cumplimiento de sus condiciones de victoria.
+
+Esto incluye las condiciones de victoria específicas de cada raza. Únicas para cada imperio.
+~
+Empire Comparison Graphs
+Empire Comparison Graphs
+Aquí también puedes ver gráficos que muestran clasificaciones ordenadas de todos los imperios conocidos en función de varios factores diferentes.
+~
+Completed
+Completed
+Gracias por realizar este tutorial.
+
+Consulte la Galactopedia (F1) para obtener información aún más detallada.
+~

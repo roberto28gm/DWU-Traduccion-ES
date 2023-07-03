@@ -1,0 +1,180 @@
+Welcome
+Welcome
+Bienvenido al tutorial de Distant Worlds. En este tutorial, aprenderá los conceptos básicos de cómo orientarse en el juego.
+
+Para avanzar en cada paso de este tutorial, haga clic en el botón "Continuar".
+
+Puede mover esta ventana del tutorial arrastrándola con el ratón.
+
+Comencemos: haga clic en el botón 'Continuar' a continuación.
+~
+Introduction
+Introduction
+Distant Worlds es un juego complejo, pero el objetivo es simple: construir y mantener un imperio galáctico.
+
+En el juego te concentras en 4 áreas clave:
+- Explorar la galaxia
+- Colonizar nuevos planetas
+- Extraer recursos valiosos
+- Defender tu imperio
+~
+The Galaxy
+The Galaxy
+La galaxia es un lugar grande: está repleto de nuevos mundos por encontrar, razas alienígenas por descubrir y recursos por explotar.
+
+Echemos un vistazo a cómo puedes moverte por la galaxia.
+~
+Moving Around
+Moving Around
+La vista principal muestra una porción de la galaxia, en este caso una pequeña porción de un sistema estelar cerca de uno de los planetas de tu colonia.
+
+Mueve el puntero del ratón al borde de la pantalla para desplazarte por la vista principal hacia arriba, abajo, izquierda o derecha. También puedes usar las teclas de flecha de tu teclado para hacer lo mismo.
+
+También puedes arrastrar la vista principal manteniendo presionado el botón derecho del ratón.
+~
+Moving Around - Zooming
+Moving Around - Zooming
+También puede acercar o alejar la vista principal para ver más o menos de la galaxia.
+
+Utilice la rueda del ratón para acercar o alejar la vista principal. También puede utilizar las teclas PageUp y PageDown para hacer lo mismo.
+~
+Zoom buttons
+Zoom buttons
+Los botones ZoomIn y ZoomOut de la pantalla principal también te permiten acercar o alejar la imagen.
+~
+System view
+System view
+Cuando se aleja al nivel de sistema, puede identificar las colonias y las naves de un imperio por el color principal del imperio.
+
+Puede acercar la imagen a cualquier ubicación manteniendo presionada la tecla 'Ctrl' mientras hace clic.
+~
+Sector view
+Sector view
+A medida que se aleja más, la vista principal cambia para mostrar sistemas.
+
+En este nivel, las naves y las bases se muestran como iconos. El color del icono indica a qué imperio pertenece la nave o la base.
+~
+Explored Systems
+Explored Systems
+Los sistemas que ha explorado tienen sus nombres junto a ellos.
+~
+Unexplored Systems
+Unexplored Systems
+Los sistemas que aún no ha explorado no tienen ningún nombre junto a ellos.
+~
+Colonized Systems
+Colonized Systems
+Los sistemas que han sido colonizados por un imperio están rodeados con el color de su imperio.
+
+El tamaño del círculo indica la importancia relativa del sistema; los sistemas más grandes son más valiosos.
+~
+Empire Territory
+Empire Territory
+Los sistemas que forman parte del territorio de un imperio tienen un fondo de un color.
+
+Un sistema puede ser propiedad de un imperio incluso cuando no está colonizado.
+
+Las colonias proyectan la influencia de su imperio en los sistemas cercanos, haciéndolas parte del territorio de su imperio.
+~
+Independent Systems
+Independent Systems
+Algunos sistemas tienen colonias independientes de extraterrestres que no pertenecen a ningún imperio.
+
+Estos sistemas independientes están encerrados en un círculo con una línea gris sólida.
+
+Pueden ser buenos objetivos para que tu imperio los colonice: los alienígenas brindan un impulso vital a la población de tu nueva colonia, lo que te permite comenzar a generar ingresos rápidamente para tu imperio.
+~
+Systems with Potential Colonies
+Systems with Potential Colonies
+Cualquier sistema con colonias potenciales se indica con un círculo punteado gris.
+
+Construye una nueva nave colonizadora y envíala a estos planetas deshabitados para establecer una nueva colonia para tu imperio.
+~
+Zoom presets
+Zoom presets
+Los botones de Zoom te permiten hacer zoom instantáneamente a varios niveles preestablecidos:
+- 100% (predeterminado)
+- vista del sistema
+- vista sectorial
+- vista de galaxia
+~
+Galactopedia Help
+Galactopedia Help
+La Galactopedia proporciona ayuda contextual sobre el elemento seleccionado actualmente o la pantalla abierta actualmente.
+
+Contiene información detallada sobre todos los diferentes tipos de planetas y naves que encuentras en la galaxia. También describe los conceptos del juego y explica cada pantalla del juego.
+
+Puede acceder al sistema de ayuda de Galactopedia en cualquier momento presionando F1 o haciendo clic en el botón Ayuda.
+~
+Main Screen elements
+Main Screen elements
+Hagamos un recorrido rápido por algunos de los otros elementos de la pantalla principal.
+~
+Selection Panel
+Selection Panel
+En la parte inferior izquierda de la pantalla está el Panel de Selección.
+
+Este muestra información detallada sobre el elemento seleccionado, ya sea una colonia, nave, sistema, etc.
+
+Para seleccionar un elemento en la pantalla principal, simplemente haga clic en él con el ratón.
+~
+Empire Navigation Tool
+Empire Navigation Tool
+A la izquierda de la pantalla está la herramienta de navegación imperial. Este es un conjunto de listas desplazables que brindan acceso rápido a todo en tu imperio.
+
+Esto incluye elementos como: tus colonias, puertos espaciales, naves constructoras, naves exploradoras, objetivos enemigos, flotas, nuevas colonias potenciales, posibles ubicaciones mineras y mucho más.
+
+Haz clic en un icono para abrir una de las listas. Vuelva a hacer clic en el icono para cerrar la lista o utiliza el botón de cierre a la derecha de la barra de título de la lista.
+~
+Empire Navigation Tool contd.
+Empire Navigation Tool contd.
+Haz clic en un elemento de una lista para seleccionarlo en el Panel de Selección a continuación.
+
+Luego puedes usar los botones de Acción debajo del Panel de Selección para acceder a muchas tareas comunes para el elemento seleccionado, lo que te permite administrar fácilmente la mayor parte de tu imperio directamente desde la pantalla principal.
+
+Al hacer doble clic en un elemento de una lista, la vista principal se moverá a ese elemento.
+
+Cuando nos alejamos al nivel de sector o de la galaxia, al pasar el cursor sobre un elemento de una lista, aparecerá un "ping" en la ubicación de ese elemento en la galaxia con un círculo amarillo en expansión.
+~
+Map
+Map
+En la parte inferior derecha hay un mapa. Este muestra el área circundante.
+
+El área que se muestra en la vista principal está indicada por el rectángulo azul en el medio del mapa.
+
+Haga clic en cualquier lugar del mapa para mover la vista principal a esa ubicación.
+
+El mapa se acerca o aleja automáticamente cuando se acerca la vista principal.
+~
+Scrolling message list
+Scrolling message list
+En la parte superior de la pantalla hay una lista que muestra eventos recientes que han ocurrido en su imperio.
+
+Haga clic en un evento en esta lista para moverse a la ubicación del evento.
+~
+Pause/Resume
+Pause/Resume
+En la parte superior izquierda de la pantalla está el botón Pausa. Esto le permite pausar o reanudar el juego en cualquier momento.
+
+Haga clic una vez para pausar el juego. Haga clic nuevamente para reanudar el juego.
+~
+Game Menu
+Game Menu
+En la parte superior izquierda de la pantalla está el botón Menú del juego.
+
+Esto accede al menú del juego donde puede cargar y guardar partidas, modificar las opciones del juego o salir del juego.
+~
+Game Options
+Game Options
+La pantalla Opciones de juego (tecla O) le permite personalizar la configuración del juego.
+
+En particular, puedes automatizar ciertas tareas del imperio como la Colonización, Construcción de naves, etc. Esto te permite concentrarte en otras áreas de tu imperio que te interesen más.
+
+Cuando inicias Distant Worlds, muchas tareas se automatizan para ti. La automatización de estas tareas se puede apagar progresivamente, a medida que desees un mayor control sobre los detalles de tu imperio.
+~
+Completed
+Completed
+Gracias por realizar este tutorial. ¡Ahora ve y explora la galaxia y construye tu imperio!
+
+Cuando esté listo, también puede probar los otros tutoriales del menú principal.
+~

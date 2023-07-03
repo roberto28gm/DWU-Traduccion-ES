@@ -1,0 +1,57 @@
+﻿
+GREETING_INTRODUCTION			;Somos los {0}.\n\nNo tememos a nadie. Defendemos nuestro territorio con coraje.\n\nNo nos provoques
+GREETING_FRIENDLY			;Di lo que piensas de nosotros, aliado
+GREETING_NEUTRAL			;¿Tienes algo que decir?
+GREETING_ANGRY				;Habla rápido, ¡tu mera presencia nos enfurece!
+
+PIRATE_PROTECTIONPROPOSE		;¿Buscando protección?\n\nPor la pequeña tarifa que se muestra abajo, protegeremos sus naves en nuestra región durante seis meses
+PIRATE_PROTECTIONPROPOSEINITIATE	;La galaxia puede ser oscura y peligrosa. Sin la protección adecuada, podría resultar dañado.\n\nPodemos asegurar que sus naves no sufrirán daños mientras comercien en nuestro territorio.\n\nLa tarifa de protección de seis meses se muestra abajo
+
+PIRATE_PROTECTIONACCEPTRESPONSE		;¡Habéis elegido bien!\n\nVuestras naves gozan de seis meses de tráfico sin problemas.
+PIRATE_PROTECTIONREJECTRESPONSE		;Si no pagáis, podrían pasar cosas aterradoras.\n\nEso sería triste
+PIRATE_ATTACKOFFER_SINGLEEMPIRE		;No os lleváis muy bien con los {0}. Podríamos ayudaros con este problema infligiendo dolorosas pérdidas a los {0}.\n\n¡No sabrán quien les golpeó\n\nSólo páganos {1} créditos y dejanos encargarnos de las cosas por ustedes.\n\n¿Hay trato?
+PIRATE_ATTACKCOMMENCE			;Transferencia de dinero recibida.\n\n¡Nuestros ataques a los {0} comienzan inmediatamente!
+
+
+OFFER_FREETRADE				;Os ofrecemos un Tratado de Libre Comercio. ¡Los beneficios serían enormes!\n\n¿Aceptáis?
+FREETRADE_ACCEPT			;¡Este Tratado de Libre Comercio parece muy rentable! ¡Aceptamos!
+FREETRADE_REJECT			;No queremos un Tratado de Libre Comercio. Sois muy débiles para que sea útil
+
+CANCELTREATY				;Este {0} ya no nos funciona. Lo estamos cancelando
+CANCELTREATY_RESPONSE_FRIENDLY		;Qué inoportuno.\n\nValorabamos este tratado. Parece que vosotros no
+CANCELTREATY_RESPONSE_NEUTRAL		;Bien, entonces. Este tratado se acabó
+CANCELTREATY_RESPONSE_ANGRY		;¡Ja, ja! ¿esperas asustarnos? Podemos enseñarte que es el miedo.\n\n¡No nos presiones!
+
+TREATY_PROPOSAL				;Indicad vuestra oferta. Os escuchamos
+TREATY_ACCEPTRESPONSE			;Bien, bien. ¡Bienvenidos a nuestros nuevos aliados!
+TREATY_REJECTRESPONSE			;Esa es vuestra elección. No obstante, es una mala elección.
+
+TRADESANCTIONS_IMPOSE			;¡Ahora sentiréis nuestra ira! Terminaremos de inmediato todo comercio entre nuosotros.\n\n¡Veamos cuanto disfrutáis las Sanciones Comerciales!
+TRADESANCTIONS_IMPOSE_RESPONSE_ANGRY	;¡Cómo os atrevéis a cortarnos así!\n\n¡Sentiréis nuestra furia! ¡No aceptaremos esto!
+TRADESANCTIONS_IMPOSE_RESPONSE_NEUTRAL	;Guardaos vuestros molestos discursos para otro.\n\nNo tememos perder vuestro comercio. Somos fuertes
+TRADESANCTIONS_IMPOSE_RESPONSE_SURPRISED	;¿Sanciones Comerciales? ¿Seguro?\n\nQuizás deberíais reconsiderar este necio movimiento...
+TRADESANCTIONS_LIFT			;Las Sanciones Comerciales que os impusimos acabaron. Retomamos el comercio normal.\n\nNo volváis a irritarnos
+TRADESANCTIONS_LIFT_RESPONSE		;Haced lo que queráis. Vuestros actos nos son indiferentes
+
+WAR_DECLARE				;Nos provocáis demasiado - ¡nuestra ira se desborda!\n\n¡GUERRA a vuestro patético imperio! Os exterminaremos
+WAR_DECLARE_RESPONSE_EAGER		;¡Damos la bienvenida a la guerra!¡Ahora podemos borraros de la galaxia!
+WAR_DECLARE_RESPONSE_NEUTRAL		;Esto no terminará bien para vosotros.\n\nPreparad vuestras defensas, ¡las necesitaréis!
+WAR_DECLARE_RESPONSE_SURPRISED		;No esperábamos tal traición de vosotros.\n\nHabeis sellado vuestro destino: acabaremos con vuestra inútil civilización
+
+WAR_END					;Nuestra ira está calmada. Es hora de que esta guerra acabe\n\n¿Qué dices?
+WAR_END_ACCEPT				;Sí, estamos de acuerdo en acabar esta guerra. Por ahora al menos...
+WAR_END_REJECT				;No, ¡Nos divierte demasiado esta guerra como para querer acabarla!
+
+GIFT_GIVE				;Te damos {0} créditos. ¿No somos generosos?
+GIFT_THANKS				;¿Un regalo? ¿Para nosotros? ¡Qué maravilloso! Gracias
+
+WARNING_INTELLIGENCEMISSIONS			;¡Vuestras misiones secretas nos irritan muchisimo!\n\n¡Paradlas ahora mismo o sufriréis nuestra dolorosa respuesta!
+WARNING_ATTACKS					;¡¿Por qué atacáis nuestras naves?!\n\n¡Detenedlo!¡Estamos enojados, irritados, IRRITADOS!
+
+WARNING						;¿Qué es esta advertencia?
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_FRIENDLY	;No sabemos de ninguna misión en contra vuestra, amigo.\n\nPero no siempre sabemos todo lo que sucede en nuestro vasto imperio.\n\nInvestigaremos este asunto por vosotros
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_NEUTRAL	;Investigaremos sus acusaciones
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_ANGRY	;¿Misiones secretas? Sí, simplemente no nos gustáis.\n\nPodéis esperar más y, con suerte, no detectaréis las siguientes...
+WARNING_ATTACKS_RESPONSE_FRIENDLY		;Nuestras disculpas: algunos de nuestros capitanes deben haberse dejado llevar un poco.\n\nVeremos que no vuelva a ocurrir
+WARNING_ATTACKS_RESPONSE_NEUTRAL		;Eso es lo más problemático. Investigaremos este asunto
+WARNING_ATTACKS_RESPONSE_ANGRY			;¿Ataques? Bien, sí, mandamos esos ataques.\n\n¿Estáis sorprendido por esto? ¿Creéis que nos gustáis o algo así?

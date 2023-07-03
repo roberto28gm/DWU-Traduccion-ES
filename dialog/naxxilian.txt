@@ -1,0 +1,56 @@
+﻿
+GREETING_INTRODUCTION			;Somos los {0}.\n\nNos gusta la vida tranquila. Y un buen juego de Todash.\n\n¿Que tal vosotros?
+GREETING_FRIENDLY			;Ahh, que bueno veros de nuevo!\n\n¿Os gustaría participar en nuestro juego de Todash?
+GREETING_NEUTRAL			;¿Hmm? Oh, ¿tienes algo sobre que hablar?
+GREETING_ANGRY				;Grrr, ¡te atreves a venir antes nosotros! Más vale que sea bueno.\n\n¡Habla!
+
+PIRATE_PROTECTIONPROPOSE		;¿Protección para vuestras naves? sí, os la podemos suministrar.\n\nPor la tarifa mostrada abajo, podemos "proteger" la totalidad de vuestras naves mientras cruzan nuestro territorio. El período de protección es de seis meses.\n\n¿No os parece una ganga?
+PIRATE_PROTECTIONPROPOSEINITIATE	;Hay muchos peligros ocultos acechando a vuestras naves - ¡piratas, por ejemplo!\n\nSin embargo por una modesta tarifa podemos proteger la totalidad de vuestras naves que viajen a través de nuestro territorio. La protección durará seis meses.\n\nUna oferta tentadora, ¿no estáis de acuerdo?
+PIRATE_PROTECTIONACCEPTRESPONSE		;¡Excelente!\n\nPasaremos la orden a nuestras naves para que se detengan cuando vean alguno de vuestros vajeles.\n\nAdiós, hasta que se deba el proximo plazo...
+PIRATE_PROTECTIONREJECTRESPONSE		;Nos preguntabamos si estáis buscando problemas.\n\nTal vez lo estéis...
+PIRATE_ATTACKOFFER_SINGLEEMPIRE		;Parece ser que tenéis dificultades con los {0}. Sin embargo, eso no tiene por qué ser un problema para vosotros - ¡podemos atacarlos por vosotros!\n\nEste acuerdo sería un secreto sólo entre nosotros. No tendríais ninguna culpa por los ataques.\n\nTodo lo que necesitamos es un pago de {1} créditos
+PIRATE_ATTACKCOMMENCE			;¡Nos acabáis de contratar!\n\n¡Los {0} nunca sabrán quien les golpeó!
+
+OFFER_FREETRADE				;Sabéis una cosa: lo que necesitamos es un Tratado de Libre Comercio. Realmente sería una gran cosa.\n\n¿Qué piensas?
+FREETRADE_ACCEPT			;Un Tratado de Libre Comercio, ¡ hoy día es una gran idea! Aceptamos.\n\n¡Ya podemos pensar las formas en que vamos a gastar todo ese dinero extra!
+FREETRADE_REJECT			;Bueno, en realidad no. No creemos que un Tratado de Libre Comercio fuera una buena idea.\n\nNo con vosotros de todos modos
+
+CANCELTREATY				;Ese {0} que tuvimos con vosotros? Está acabado: terminado, finiquitado, kaput.\n\nSimplemente no funcionó
+CANCELTREATY_RESPONSE_FRIENDLY		;¡Bueno, maldita sea!\n\Creíamos que teníamos algo bueno en él. Nunca se puede asegurar, supongo
+CANCELTREATY_RESPONSE_NEUTRAL		;Si vosotros lo decís
+CANCELTREATY_RESPONSE_ANGRY		;¿Ah, sí?! Bueno, de todos modos, nunca nos gustasteis.\n\nQue así sea
+
+TREATY_PROPOSAL				;¡¿Un tratado?! ¡Amamos los tratados!\n\nCuéntanos más
+TREATY_ACCEPTRESPONSE			;¡Estoy tan emocionado! Los nuevos amigos significan una gran celebración.\n\nPor cierto: ¿jugáis al Todash?
+TREATY_REJECTRESPONSE			;Hmm, esto no es lo que estabamos esperando escuchar.\n\nRealmente sabéis cómo acabar con la fiesta
+
+TRADESANCTIONS_IMPOSE			;Sabéis que tenéis ahora: ¡Sanciones Comerciales!\n\nDe veras os lo habéis ganado. Ya hemos tenido suficientes puñaladas por la espalda
+TRADESANCTIONS_IMPOSE_RESPONSE_ANGRY	;¡No podéis imaginar lo enfadados que estamos ahora mismo!\n\n¡Indescriptiblemente enfadados! ¡Furiosamente indignados! Incluso, bastante molestos
+TRADESANCTIONS_IMPOSE_RESPONSE_NEUTRAL	;Eso es justo lo que esperábamos de vosotros.\n\n¡No os invitamos a más juegos de Todash ahora!
+TRADESANCTIONS_IMPOSE_RESPONSE_SURPRISED	;Bueno, ¡relamente dais un poquito de trabajo! Imagina: ¡imponiéndonos Sanciones Comerciales a nosotros, vuestros amigos!\n\nNo volváis a hablar con nosotros
+TRADESANCTIONS_LIFT			;Sanciones Comerciales acabadas.\n\nEn realidad, son bastante aburridas. Preferimos el comercio libre y abierto
+TRADESANCTIONS_LIFT_RESPONSE		;Ahora tiene sentido un cambio.\n\nAgradecemos un retorno al comercio normal
+
+WAR_DECLARE				;Habéis ido demasiado lejos esta vez: ¡GUERRA a vuestro flacucho imperio!\n\nHaremos que mendiguéis misericordia, y luego no os mostraremos ninguna!
+WAR_DECLARE_RESPONSE_EAGER		;VENGA, GUERRA, YA! ¡Os enterraremos!
+WAR_DECLARE_RESPONSE_NEUTRAL		;¡Qué mal genio!¡Qué mal! Este es el último error que ya nunca más cometeréis
+WAR_DECLARE_RESPONSE_SURPRISED		;¡Seguro que no!\n\n¿Creíamos que éramos amigos? Parece que estabamos equivocados
+
+WAR_END					;Al principio nos gustaba esta guerra, pero ahora ya no es divertida.\n\n¿La damos por terminada? ¿Qué dices?
+WAR_END_ACCEPT				;Sí, ya es suficiente batalla.\n\nPodemos continuar más tarde si nos apetece
+WAR_END_REJECT				;No, ¡esta guerra es demasiado divertida para parar!\n\n¿Seguro que no os habéis aburrido todavía?
+
+GIFT_GIVE				;¡Tenemos un regalo para vosotros: {0} créditos!¿Os gusta?
+GIFT_THANKS				;¡Guau! ¡Un regalo para nosotros! ¡Gracias!
+
+WARNING_INTELLIGENCEMISSIONS		;Oye, sabemos de todas esas misiones secretas que estáis enviando contra nosotros.\n\n¡Y estamos bastante trastornados por ellas!\n\nAsí que retíralas ahora mismo, ¿ok?
+WARNING_ATTACKS				;¡Detened los ataques a nuestras naves ahora mismo!\n\nNuestra paciencia se está agotando - ¡os estamos avisando!
+
+
+WARNING						;¿Una advertencia? Nos preguntabamos ¿a qué se debería esto?
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_FRIENDLY	;Entendemos su preocupación.\n\nNos aseguraremos de que esto no suceda otra vez
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_NEUTRAL	;Antes de responder debemos chequear los detalles de este incidente.\n\nEstamos en contacto, ¿de acuerdo?
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_ANGRY	;Ahora que lo mencionáis: sí, mandamos esas misiones contra vosotros.\n\n¿Por qué? Porque en realidad os odiamos, de veras.\n\n¿Queda claro?
+WARNING_ATTACKS_RESPONSE_FRIENDLY		;Qué tremendo. Por favor acepte nuestras disculpas.\n\nDenos los detalles del incidente y nos ocuparemos del capitán responsable.
+WARNING_ATTACKS_RESPONSE_NEUTRAL		;Hmmm, nada bueno. Que te pesquen, claro.\n\nPor favor acepte nuestras disculpas
+WARNING_ATTACKS_RESPONSE_ANGRY			;Recordamos haber ordenado algunos ataques recientemente.\n\nPero sólo le haríamos eso a nuestros enemigos. Entonces supongo que ¿eso significa que eres nuestro enemigo?

@@ -1,0 +1,50 @@
+﻿
+GREETING_INTRODUCTION			;Buen día. Somos los {0}.\n\nNuestra cultura es la superior de todas.\n\nPodéis admirar nuestra grandeza y maravillaros con nuestros logros
+GREETING_FRIENDLY			;¿Qué pensamiento trivial queréis compartir con nosotros, amigo?
+GREETING_NEUTRAL			;Estamos listos para escuchar vuestras frívolas ideas.\n\nYa puedes hablar
+GREETING_ANGRY				;¡Suelta rápido tu absurdo discurso!
+
+OFFER_FREETRADE				;¡Os beneficiaría mucho un Tratado de Libre Comercio con nosotros! Pero lo mejor es que también ganaríais mucho dinero\n\n¿Qué decís?
+FREETRADE_ACCEPT			;Un Tratado de Libre Comercio es una idea excelente.\n\nPrevemos grandes beneficios - ¡principalmente para nosotros!
+FREETRADE_REJECT			;Disculpad, un Tratado de Libre Comercio con vosotros no valdría la pena.\n\nSois demasiado mediocres
+
+CANCELTREATY				;Este {0} ha terminado. Adiós
+CANCELTREATY_RESPONSE_FRIENDLY		;Valla, esto es... sorprendente. Err, ¿lo reconsideraríais?
+CANCELTREATY_RESPONSE_NEUTRAL		;¿No más tratado? Qué triste.\n\nPor supuesto, os cobraremos una considerable compensación por la cancelación
+CANCELTREATY_RESPONSE_ANGRY		;¡Qué indignante! Después de todo lo que hemos hecho por vosotros, después de escuchar vuestros aburridos discursos, y sobre todo: ¡después de gastar todo ese dinero!
+
+TREATY_PROPOSAL				;¡Una propuesta de tratado! ¡Cuéntanos!\n\n¿Implica mucho dinero?
+TREATY_ACCEPTRESPONSE			;¡Qué glorioso! Prevemos que esta relación nos hará muy ricos a ambos - en especial a nosotros
+TREATY_REJECTRESPONSE			;¡¿Rechazando nuestra oferta de tratado?!\n\nEsto no puede ser correcto. ¿No comprendisteis nuestra oferta?
+
+TRADESANCTIONS_IMPOSE			;¡Con efecto inmediato, serán impuestas sanciones comerciales contra ustedes!\n\n¡Veremos cómo sobrevivís sin nuestro comercio!
+TRADESANCTIONS_IMPOSE_RESPONSE_ANGRY	;¡Cómo osáis considerar dejar de comerciar con nosotros!\n\nEsto es... simplemente, um, er... ¡no es justo!
+TRADESANCTIONS_IMPOSE_RESPONSE_NEUTRAL	;Qué necio es pensar que las Sanciones Comerciales nos perjudicarán.\n\n¡Que le den a vuestro comercio!
+TRADESANCTIONS_IMPOSE_RESPONSE_SURPRISED	;¿Sanciones Comerciales? ¿No querréis intercambiar BONOS? Seguramente quisisteis decir esto...
+TRADESANCTIONS_LIFT			;Finalizaremos nuestras Sanciones Comerciales contra vosotros.\n\nAunque despreciamos vuestra precaria civilización, hay una cosa vuestra que nos gusta - vuestro dinero
+TRADESANCTIONS_LIFT_RESPONSE		;Reanudar el comercio es una sabia decisión.\n\nEl dinero es mucho más importante que cualquier otra cosa, ¿no creéis?
+
+WAR_DECLARE				;¡Es un gran placer declarar la guerra a vuestro primitivo imperio!
+WAR_DECLARE_RESPONSE_EAGER		;¡¿VOSOTROS atacandonos a NOSOTROS?! Nos estamos riendo tanto que no podemos respirar.\n\n¡Prepáraos para saborear la derrota!
+
+WAR_DECLARE_RESPONSE_NEUTRAL		;Qué injusto. Odiamos las guerras, ¡son tan caras!
+WAR_DECLARE_RESPONSE_SURPRISED		;¡Debe haber algún error! ¡¿Qué hicimos para ofenderos?! ¿Ya no somos amigos?
+
+WAR_END					;Hemos gastado demasiado en esta guerra - terminemosla ahora. ¿trato hecho?
+WAR_END_ACCEPT				;De acuerdo, terminaremos esta guerra de inmediato - ¡ya ha costado demasiado!
+
+WAR_END_REJECT				;No, esta guerra debería continuar hasta que nosotros ganemos o vosotros perdáis
+
+GIFT_GIVE				;Os ofrecemos un obsequio de {0} créditos.\n\nNo lo olvidéis: para miseros avaros como somos nosotros, separarnos voluntariamente de este dinero significa que realmente os apreciamos.
+GIFT_THANKS				;Gracias por su distinguido regalo: ¡dinero!\n\nLa próxima vez, nos encantará aceptar cantidades aún mayores. Sólo queríamos asegurarnos que lo supierais...
+
+WARNING_INTELLIGENCEMISSIONS		;¡Hemos descubierto tus traidoras misiones secretas contra nosotros!\n\n¡Detenedlas ahora, atrevidos aliens, o nos enfadaremos tanto que haremos algo aterrador!
+WARNING_ATTACKS				;¡Dejad de atacar nuestras naves y bases!\n\nSi no os detenéis, ¡vamos a llamaros cosas muy gruesas! ¡O algo peor!
+
+WARNING						;¿Nos advertís a nosotros?\n\nBien, ¡no nos dejéis en suspenso! Por favor compartid vuestra preocupación
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_FRIENDLY	;Esto es nuevo para nosotros. Nosotros no ordenamos estas misiones en vuestra contra.\n\Lo comprobaremos por vosotros y llegaremos al fondo de esta situación.
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_NEUTRAL	;¿Misiones secretas?\n\n¿Debéis estar equivocados? ¿O posiblemente simplemente paranoicos?
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_ANGRY	;¿Misiones en contra vuestra? No, no creemos que esto sucediera realmente.\n\nDe todos modos, no recordamos nada sobre estas misiones en particular de las que nos hablas
+WARNING_ATTACKS_RESPONSE_FRIENDLY		;Bueno, ya sabéis cómo es esto: ¡a veces estos comandantes estelares simplemente se emocionan un poco!\n\nTendremos una charla con ellos. No debería suceder más
+WARNING_ATTACKS_RESPONSE_NEUTRAL		;¿Esperáis algún tipo de compensación?\n\nSi es así, entonces no sabemos nada sobre esas misiones...
+WARNING_ATTACKS_RESPONSE_ANGRY			;Francamente: estamos cansados ​​de vuestra primitiva especie.\n\nHacer prácticas de tiro sobre vuestras naves alivia parte de nuestra frustración

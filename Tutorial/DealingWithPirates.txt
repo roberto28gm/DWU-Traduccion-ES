@@ -1,0 +1,73 @@
+Welcome
+Welcome
+Bienvenido al tutorial de Distant Worlds sobre cómo lidiar con piratas cuando juegas como un imperio normal.
+
+Para avanzar en cada paso de este tutorial, haga clic en el botón "Continuar".
+
+Puede mover esta ventana del tutorial arrastrándola con el ratón.
+
+Comencemos: haga clic en el botón 'Continuar' a continuación.
+~
+Pirates
+Pirates
+Es probable que te encuentres con piratas en algún momento de tu expansión en tu acogedor sistema.
+
+Al principio del juego, estás mal equipado para enfrentarte a los piratas, por lo que deberías aceptar pagar un Acuerdo de protección a los piratas. Esto es sin duda así antes de que tu puerto espacial esté armado.
+
+Pagar a cobardes piratas puede parecer cobarde y débil, pero te dará el tiempo necesario para establecer tu imperio correctamente.
+~
+Pirates - Putting Them To Work
+Pirates - Putting Them To Work
+Sin embargo, los piratas también pueden ser útiles. Al principio del juego, es posible que haya escasez de recursos en tu colonia. Por un precio, los piratas pueden ayudar a llenar cualquier vacío al contrabandear recursos para ti.
+
+Para solicitar una misión de contrabando de piratas, selecciona su colonia y haga clic en el botón de acción 'Asignar misión de contrabando a mercenarios' debajo del Panel de Selección. Selecciona el recurso deseado (o 'Todos') en el pequeño panel emergente que aparece y haz clic en el botón Asignar.
+
+La misión de contrabando aparecerá en el panel de Misiones Piratas en la Herramienta de Navegación Imperial en la pantalla izquierda. Puede cancelar la misión de contrabando en cualquier momento haciendo clic en el botón Cancelar aquí.
+
+Una vez aceptados por una facción pirata, sus cargueros de contrabando llegarán eventualmente a tu colonia para entregar los recursos solicitados.
+~
+Pirates - Attack Missions
+Pirates - Attack Missions
+También puedes pagar a piratas para que ataquen un objetivo de otro imperio.
+
+Para solicitar una de estas misiones de ataque pirata, selecciona la base enemiga objetivo y haz clic en el botón de acción 'Asignar misión de ataque mercenario' debajo del panel de selección.
+
+La nueva misión de ataque aparecerá en el panel de Misiones Piratas en el ENT, al igual que para las misiones de contrabando. Las facciones piratas pujarán por la misión, hasta que una facción gane la misión.
+
+Cuando los piratas completan la misión de ataque por ti (destruyendo o capturando el objetivo), la tarifa se les pagará automáticamente.
+~
+Pirates - Defend Missions
+Pirates - Defend Missions
+También se puede pagar a piratas para proteger una base o colonia en tu propio imperio durante dos años. Obviamente, estas misiones de defensa solo están disponibles para las facciones piratas con las que ya tienes un acuerdo de protección.
+
+Para solicitar una de estas misiones de defensa pirata, selecciona la base o colonia que deseas proteger y haz clic en el botón de acción 'Asignar misión de defensa mercenaria' debajo del panel de selección.
+
+La nueva misión de defensa aparecerá en el panel de Misiones Piratas en el ENT, al igual que para las misiones de contrabando. Las facciones piratas pujarán por la misión, hasta que una facción gane la misión.
+
+Cuando los piratas completen la misión de defensa por ti (protegiendo tu base o colonia hasta la fecha especificada), la tarifa se les pagará automáticamente.
+~
+Clearing out Pirates
+Clearing out Pirates
+A medida que su imperio se fortalezca, es posible que desee erradicar las facciones piratas cercanas.
+
+Para eliminar por completo una facción pirata, debes destruir todo lo siguiente:
+- colonias (controladas o propias)
+- ubicaciones de repostaje (puertos espaciales o estaciones de minería de gas)
+- naves de construcción o naves de reabastecimiento
+
+Rastrear y eliminar todo lo anterior puede llevar tiempo y esfuerzo. Sin embargo, puedes perjudicar gravemente a una facción pirata simplemente destruyendo su puerto espacial. Con su Dársena de construcción eliminada, la facción ya no puede construir nuevas naves.
+~
+Eradicating Pirates at your Colonies
+Eradicating Pirates at your Colonies
+Las facciones piratas pueden establecer el control en una o más de tus colonias. También pueden haber construido una instalación pirata en la colonia, como una Base Pirata o una Fortaleza Pirata.
+
+Los piratas obtienen gran parte de sus ingresos del control de colonias, por lo que debes hacer todo lo posible para eliminarlos de tu colonia. Para erradicar a los piratas, debes lanzar una invasión terrestre contra la instalación pirata en tu colonia.
+
+Para hacer esto, abre la pestaña Instalaciones en la pantalla Colonias (F2). Selecciona la instalación pirata objetivo- el botón "Desechar" cambiará a "Atacar". Al hacer clic en el botón de ataque, se lanzará un ataque terrestre contra la instalación pirata utilizando todas tus tropas actualmente en la colonia. Si tiene éxito, el ataque terrestre destruirá la instalación pirata.
+~
+Completed
+Completed
+Gracias por realizar este tutorial.
+
+Consulte la Galactopedia (F1) para obtener más información.
+~

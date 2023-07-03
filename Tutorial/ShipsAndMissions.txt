@@ -1,0 +1,162 @@
+Welcome
+Welcome
+Bienvenido al tutorial de Distant Worlds sobre naves y bases, y la asignación de misiones a sus naves.
+
+Para avanzar en cada paso de este tutorial, haga clic en el botón "Continuar".
+
+Puede mover esta ventana del tutorial arrastrándola con el ratón.
+
+Comencemos: haga clic en el botón 'Continuar' a continuación.
+~
+Ships and Bases
+Ships and Bases
+Ahora echemos un vistazo a las naves y las bases.
+
+Los naves viajan por toda la galaxia realizando una amplia gama de tareas, desde transportar cargamentos hasta defender tu imperio.
+
+Las bases son plataformas fijas en el espacio, generalmente ubicadas en un planeta.
+
+Para ver una lista completa de todos las naves y bases de tu imperio, haz clic en el botón naves y bases (tecla F11).
+~
+Ships and Bases - Designing
+Ships and Bases - Designing
+Todas las naves y bases de tu imperio pueden diseñarse según tus especificaciones exactas en la pantalla Diseños (tecla F8).
+
+Consulte el tutorial 'Investigación, diseño y construcción de naves' para obtener más información sobre cómo hacer esto.
+~
+Assigning Missions
+Assigning Missions
+Puedes asignar misiones a cualquier nave o base de propiedad estatal de tu imperio.
+
+Sin embargo, esto NO incluye las naves de propiedad privada como cargueros, naves mineras o estaciones mineras. No tienes control sobre ellas. Se ocupan de sus asuntos automáticamente, seleccionando misiones por sí mismas.
+~
+Assigning a Mission
+Assigning a Mission
+Para asignar una misión a una nave, primero selecciónala en la vista principal haciendo clic izquierdo sobre ella con el ratón.
+
+Luego haz clic con el botón derecho del ratón sobre el objetivo de la misión. Por ejemplo, para hacer que un nave se mueva a otra ubicación, haga clic con el botón derecho del ratón en esa ubicación.
+
+Tenga en cuenta que es posible que deba reanudar el juego para ver cómo se mueve la nave.
+~
+Missions - Popup Menu
+Missions - Popup Menu
+Al hacer clic con el botón derecho en la nave o la base, también puede aparecer un menú emergente con una lista de misiones.
+
+Estas misiones son específicas para cada tipo particular de nave o base. Puede incluir: exploración, colonización, construcción, reabastecimiento de combustible o muchas otras.
+~
+Automating Missions
+Automating Missions
+Los naves también pueden automatizarse por completo. Esto significa que se asignan misiones a sí mismos.
+
+Para automatizar un nave, primero selecciónela y luego presiona la tecla 'A'. Para apagar la automatización, simplemente asigna una misión a la nave.
+
+Cuando un nave está automatizado, aparece una flecha circular azul en la esquina inferior derecha del Panel de Selección.
+
+Ten en cuenta que TODAS los naves inician el juego de forma automática.
+~
+Missions for Bases
+Missions for Bases
+Aunque las bases son estáticas, también pueden tener misiones.
+
+Las misiones de las bases pueden incluir: construir nuevas naves, adaptarlas a un nuevo diseño o desguazar la base cuando ya no sea necesaria.
+~
+Types of Ships and Bases
+Types of Ships and Bases
+Echemos un vistazo a los diferentes tipos de naves y bases de su imperio.
+~
+Exploration Ships
+Exploration Ships
+Las naves de exploración trazan áreas desconocidas de la galaxia. A medida que exploran, revelan planetas colonizables, descubren recursos valiosos y hacen contacto con otros imperios.
+
+Los naves de exploración se pueden automatizar para explorar por sí mismas (tecla 'A').
+
+Para recorrer todas tus naves de exploración, utiliza el botón Secuencia de colonias y naves de exploración, o utiliza la tecla 'X'.
+~
+Colony Ships
+Colony Ships
+Las naves colonizadoras te permiten colonizar otros planetas, fundando nuevos mundos para tu imperio.
+
+La nave colonizadora se consume cuando se establece una nueva colonia. Los recursos de la nave se aprovechan para impulsar a la colonia.
+
+Si bien la mayoría de las naves se construyen en puertos espaciales, las naves Colonizadoras solo se pueden construir en colonias.
+~
+Colony Ships contd.
+Colony Ships contd.
+Para empezar, solo puedes colonizar el tipo nativo de planeta de tu raza. Pero a medida que se investigan nuevas tecnologías, puedes colonizar progresivamente otros tipos de planetas.
+
+Sin embargo, siempre puedes colonizar planetas donde exista una población alienígena independiente preexistente, independientemente del tipo de planeta que sea. En estas situaciones, la población preexistente puede resistirse a tu intento de colonización, con la posible pérdida de tu nave colonizadora.
+
+Para recorrer todas tus naves colonizadoras, usa el botón Secuencia de colonias y naves de exploración, o usa la tecla 'X'.
+~
+Space Ports
+Space Ports
+Los puertos espaciales son bases que brindan muchos servicios importantes para tu imperio. Los puertos espaciales siempre deben construirse en una colonia.
+
+Sirven como un punto central de comercio para tu imperio. Los recursos minerales son traídos aquí por cargueros y naves mineras.
+
+Los puertos espaciales también proporcionan instalaciones de construcción para tu imperio. Aquí se construyen tanto naves estatales como privadas. Cuando los ciudadanos privados compran cargueros u otras naves, tu imperio genera ingresos.
+~
+Space Ports contd.
+Space Ports contd.
+Los puertos espaciales también proporcionan otras funciones vitales:
+- Armas Pesadas que proporcionan una fuerte defensa para la colonia.
+- Instalaciones de investigación para tus científicos e ingenieros.
+- Bonificaciones que ayudan a mantener feliz a la población de la colonia: instalaciones médicas y centros recreativos,
+
+Para recorrer todos los puertos espaciales, usa el botón Secuencia de puertos espaciales o usa la tecla 'P'.
+~
+Freighters
+Freighters
+Los cargueros transportan carga entre las colonias, estaciones mineras y puertos espaciales. Vienen en tamaños pequeños, medianos y grandes.
+
+Los cargueros trabajan para tu imperio, pero no son tuyos. Pertenecen a los ciudadanos privados de tu imperio. Todo el transporte de mercancías en tu imperio lo realizan ciudadanos privados.
+
+Por lo tanto, no puedes asignar misiones a los cargueros.
+~
+Mining Ships
+Mining Ships
+Los naves mineras son naves de extracción de recursos móviles. Extraen recursos que tienen una gran demanda y los envian al puerto espacial más cercano.
+
+Los naves mineras trabajan para tu imperio, pero no son tuyas. Pertenecen a los ciudadanos privados de tu imperio.
+
+Por lo tanto, no puedes asignar misiones a naves mineras.
+~
+Mining Stations
+Mining Stations
+Las estaciones mineras son bases que extraen recursos de los planetas, lunas, asteroides y nubes de gas.
+
+Pueden ser estaciones de minería estándar o estaciones de minería de gas.
+
+Las estaciones mineras son construidas por Naves Constructoras en planetas ricos en recursos.
+~
+Construction Ships
+Construction Ships
+Los naves de construcción son Dársenas de construcción móviles. Pueden construir bases en los planetas deshabitados e incluso en el espacio profundo.
+
+Usa el botón Secuencia de naves de construcción para recorrer todos las naves de construcción de tu imperio, o usa la tecla 'Y'.
+~
+Military Ships
+Military Ships
+Las naves militares defienden tu imperio de los imperios enemigos y de los piratas.
+
+Se les puede asignar las siguientes misiones:
+- Atacar a un objetivo enemigo
+- Patrullar una colonia o base, prestando adecuada atención a los posibles atacantes
+- Escoltar una nave civil, como una nave de construcción o una nave minera
+
+Hay varios tamaños y clases de naves militares.
+
+Usa el botón Secuencia de naves militares para repasarlos, o usa la tecla 'M'.
+~
+Find Idle Ships
+Find Idle Ships
+Puedes encontrar naves que actualmente no tienen una misión haciendo clic en el botón Secuencia de naves inactivas (o presiona la tecla I).
+
+Esto te ayudará a encontrar naves que no se están utilizando para que puedas asignarles misiones.
+~
+Completed
+Completed
+Gracias por realizar este tutorial. ¡Ahora ve y explora la galaxia y construye tu imperio!
+
+Cuando esté listo, también puede probar los otros tutoriales del menú principal.
+~

@@ -1,0 +1,224 @@
+Welcome
+Welcome
+Distant Worlds ofrece la posibilidad de jugar como una facción pirata.
+
+Este tutorial explicará cómo jugar como una facción pirata.
+
+Para avanzar en cada paso de este tutorial, haga clic en el botón "Continuar".
+
+Puede mover esta ventana del tutorial arrastrándola con el ratón.
+
+Comencemos: haga clic en el botón 'Continuar' a continuación.
+~
+Pirates are different
+Pirates are different
+Los piratas se diferencian de los imperios estándar en varios aspectos importantes. 
+
+Una gran diferencia es que los piratas no suelen tener colonias. En cambio, comienzan con un puerto espacial en un planeta gigante gaseoso.
+
+Los piratas no pueden colonizar planetas. Pero pueden construir puertos espaciales en cualquier lugar.
+~
+Pirate Spaceport
+Pirate Spaceport
+El centro de tu facción pirata es tu puerto espacial inicial. Aquí es donde tu líder pirata suele refugiarse.
+
+En su puerto espacial pirata puede construir nuevas naves, así como reparar y modernizar naves preexistentes.
+
+Su puerto espacial también sirve como depósito de reabastecimiento de combustible para sus naves.
+
+Cuando sus ingresos lo permitan, puede construir puertos espaciales adicionales en cualquier lugar utilizando su Nave Constructora.
+~
+Construction Ships
+Construction Ships
+Los piratas pueden construir sus propias bases.
+
+Cada facción pirata comienza el juego con su propio nave constructora. Se usa para construir estaciones mineras y otras bases.
+
+Ten en cuenta que, dado que los piratas no poseen colonias, no pueden construir naves constructoras adicionales. Así que protege bien tu nave constructora inicial: ¡perderla sería un gran golpe!
+
+Sin embargo, los piratas pueden abordar y capturar naves de construcción de otros imperios, como se describe más adelante en este tutorial.
+~
+Pirate Income
+Pirate Income
+Mientras que los imperios estándar obtienen la mayor parte de sus ingresos de las colonias, los piratas obtienen ingresos de diferentes fuentes.
+
+Echemos un vistazo a las principales fuentes de ingresos de los piratas:
+- Colonias controladas
+- Acuerdos de protección
+- Misiones piratas
+- Minería
+- Incursiones
+~
+Controlled Colonies
+Controlled Colonies
+Aunque los piratas no pueden poseer colonias como los imperios estándar, pueden CONTROLAR las colonias moviendo sus naves militares a una de ellas.
+
+Cuanta más fuerza militar tengan cerca de una colonia, más rápido aumentará su nivel de control, llegando al 100%.
+
+Controlar una colonia permite a los piratas desviar sus ingresos: cuanto mayor es el control, más dinero se recauda de la colonia.
+
+Ten en cuenta que varias facciones piratas pueden controlar una colonia al mismo tiempo. También ten en cuenta que las colonias muy grandes tienen un nivel de control máximo más bajo (es decir, no pueden ser controladas al 100%)
+~
+Pirate Bases at Controlled Colonies
+Pirate Bases at Controlled Colonies
+Los piratas pueden establecer el control permanente de una colonia mediante la construcción de una instalación planetaria "Base Pirata". La primera facción en construir una Base Pirata controlará la colonia. El control previo debe alcanzar el 50% antes de que pueda construirse una base pirata.
+
+Los piratas también pueden construir instalaciones planetarias "Fortaleza Pirata" en una colonia controlada. El control debe estar al 100% antes de que se pueda construir una Fortaleza Pirata.
+
+Tener una base pirata o una fortaleza pirata en una colonia controlada aumenta los ingresos procedentes de la colonia.
+~
+Protection Agreements
+Protection Agreements
+Los piratas tienen una diplomacia muy simple. Cuando se encuentran con otra facción, son agresivos con ellos: atacarán libremente sus naves y bases.
+
+Sin embargo, los piratas pueden ofrecer Acuerdos de Protección a imperios, solicitando pagos mensuales a cambio de abstenerse de atacar dicho imperio. Puede ofrecer acuerdos de protección desde la pantalla Diplomacia (F5).
+
+Un acuerdo de protección puede allanar el camino para una relación de beneficio mutuo a largo plazo entre la facción pirata y el imperio estándar, lo que podría conducir a misiones de defensa y otras oportunidades.
+
+Los piratas también pueden ofrecer treguas a otras facciones piratas. En este caso, no hay una tarifa mensual: cada facción pirata simplemente acepta no atacar a la otra.
+~
+Pirate Missions
+Pirate Missions
+Los imperios estándar y las colonias independientes a veces pueden ofrecer misiones especiales a facciones piratas.
+
+Se puede acceder a estas misiones desde el panel de misiones piratas en la herramienta de navegación Imperial en la izquierda de la pantalla.
+
+Antes de que una facción pirata pueda emprender una misión, primero debe aceptar o pujar por la misión en la herramienta de navegación Imperial.
+
+Echemos un vistazo a los tres tipos de misiones disponibles: Contrabando, Ataque y Defensa.
+~
+Pirate Smuggling Missions
+Pirate Smuggling Missions
+Cuando un imperio o una colonia independiente carecen de recursos, pueden decidir ofrecer una misión de contrabando para abastecer la colonia afectada.
+
+Los cargueros piratas siempre obtienen algunos ingresos del contrabando cuando entregan recursos a una localización de otro imperio.Sin embargo cuando una misión de contrabando está activa, se paga una gran bonificación por los recursos entregados a la colonia.
+
+Ten en cuenta que los cargueros piratas aparecen como cargueros independientes a ojos de los otros imperios, por lo que generalmente pueden atracar en una colonia o base sin ser descubiertos.
+
+También ten en cuenta que las facciones piratas pueden construir naves civiles (incluidos los cargueros de contrabando) directamente usando el botón de acción 'Construir una nueva nave civil' en su puerto espacial.
+~
+Pirate Attack Missions
+Pirate Attack Missions
+Otros imperios pueden ofrecer misiones de ataque, donde pagan a las facciones piratas para que ataquen un objetivo enemigo por ellos.
+
+Para las misiones de ataque, las facciones piratas deben pujar por la misión, reduciendo el precio de la misión con cada puja. La última facción pirata en ofertar obtiene la misión de ataque.
+
+El pago se realiza por la misión de ataque cuando se termina con éxito. La misión se completa cuando el objetivo es destruido o capturado.
+
+Las misiones de ataque aceptadas deben completarse en una plazo específico. No completar la misión afectará muy negativamente sus relaciones con el imperio solicitante.
+~
+Pirate Defense Missions
+Pirate Defense Missions
+Otros imperios pueden solicitar misiones de Defensa, donde pagan a facciones piratas para proteger una de sus propias bases durante un período de tiempo.
+
+Para las misiones de defensa, las facciones piratas deben pujar por la misión, reduciendo el precio de la misión con cada puja. La última facción pirata en pujar obtiene la misión de defensa.
+
+Las misiones de defensa solo pueden ser solicitadas por facciones piratas que tengan un acuerdo de protección con el imperio solicitante.
+
+El pago por la misión de defensa se realiza cuando expira el período de tiempo y la base permanece ilesa.
+~
+Mining
+Mining
+Los piratas pueden suministrar recursos a otros imperios desde sus estaciones mineras.
+
+Esto puede ser especialmente rentable en una partida con muchos imperios pre-torcedura, ya que pueden tener problemas para suministrar todos sus propios recursos.
+
+Las misiones de contrabando también pueden aumentar los ingresos de la minería.
+~
+Raids
+Raids
+Los piratas pueden realizar incursiones contra las bases y colonias de otros imperios.
+
+Las incursiones implican el uso de modulos de asalto para abordar una base enemiga o para lanzar una invasión terrestre de una colonia enemiga.
+
+Las incursiones con exito obtienen botín para la facción pirata. El botín puede tomar la forma de dinero, avances de investigación o recursos.
+
+Ten en cuenta que asaltar un objetivo que ya ha sido asaltado recientemente obtendrá bonificaciones mucho más bajas.
+~
+Capturing Ships and Bases
+Capturing Ships and Bases
+Una característica típica de los piratas es abordar y capturar naves y bases enemigas.
+
+Para abordar un objetivo, la nave atacante debe tener componentes del tipo Capsulas(modulos) de Asalto.
+
+Para iniciar una misión de captura: selecciona una nave militar con capacidad de asalto, coloca el cursor sobre el objetivo mientras mantienes presionada la tecla Shift y luego haz clic derecho en el objetivo.
+
+Haz clic en 'Continuar' para obtener detalles sobre cómo funciona el abordaje y la captura.
+~
+Boarding and Capture
+Boarding and Capture
+Antes de abordar un objetivo, deben ser desactivados los escudos y la nave atacante debe encontrarse lo suficientemente cerca para estar al alcance de sus cápsulas de asalto. Las cápsulas de asalto se lanzarán hacia el objetivo y, si lo alcanzan con éxito, lo abordarán.
+
+Luego se lleva a cabo una batalla dentro de la nave o base objetivo, con las fuerzas defensivas luchando contra las partidas de abordaje. Las fuerzas de defensa están compuestas por la tripulación de la nave (depende del nº de los  módulo Habitacionales), las cápsulas de asalto intactas de la nave y las tropas a bordo de ella.
+
+Si los asltantes tienen éxito, la nave o la base es capturada, cambiando la propiedad de esta al atacante.
+
+Ten en cuenta que las cápsulas de asalto pueden ser derribadas por armas de defensivas mientras están en tránsito hacia el objetivo.
+~
+Tractor Beams
+Tractor Beams
+Los piratas suelen utilizar armas de Rayos Tractores en sus naves. Los rayos tractores son muy útiles para atraer y empujar objetivos enemigos.
+
+Cuando una nave persigue a un objetivo, puede tirar del objetivo hacia sí mismo para realizar un ataque más efectivo. Cuando una nave está huyendo de un atacante, puede alejarse del atacante, lo que le permite una mejor evasión.
+
+Los rayos tractores funcionan mejor contra objetivos más pequeños y cercanos.
+
+Ten en cuenta que las armas de Rayos Tractores son muy útiles cuando se intenta capturar naves enemigas.
+~
+Pirate Play Styles
+Pirate Play Styles
+Las facciones piratas suelen seguir uno de estos cuatro estilos de juego:
+- Equilibrado: control de colonias, acuerdos de protección, captura de naves
+- Asaltante: controla colonias, construye bases piratas y fortalezas
+- Mercenario: misiones de ataque y defensa, incursiones, captura de naves
+- Contrabandista: misiones de contrabando, acuerdos de protección, espionaje
+
+Selecciona el estilo de juego de tu facción pirata en la pantalla "Tu imperio" en la configuración del juego.
+~
+Pirate Victory Conditions
+Pirate Victory Conditions
+Los estilos de juego pirata también afectan las condiciones de victoria que debe cumplir una facción pirata.
+
+Tenga en cuenta que los piratas compiten contra otras facciones piratas para lograr la victoria, NO contra los imperios estándar.
+
+Las facciones piratas se eliminan del juego cuando pierden todo lo siguiente:
+- colonias (controladas o propias)
+- ubicaciones de repostaje (puertos espaciales o estaciones de minería de gas)
+- naves de construcción o naves de reabastecimiento
+~
+Pirate Criminal Network
+Pirate Criminal Network
+Eventualmente, puede lograr el control del 100% de una colonia y construir una instalación Fortaleza Pirata allí. En este punto, tienes la opción de construir una mini maravilla pirata especial llamada 'Red Criminal'.
+
+La Red Criminal afianza completamente su control de una colonia, lo que le permite tomar el control por completo, poseyéndola igual que un imperio normal. A continuación, puede construir naves de construcción, naves de reabastecimiento e incluso naves colonizadoras aquí. Esto te permite colonizar nuevos planetas para tu facción pirata.
+
+La Red Criminal también te permite reclutar tropas en la colonia. Con tropas reclutadas, puedes invadir colonias enemigas y apoderarte de ellas.
+
+También recibe una bonificación de puntos de victoria del 1% por cada 500 millones de habitantes en las colonias que posee por completo.
+~
+Defending against Attack
+Defending against Attack
+Ten en cuenta que las instalaciones piratas (Bases Pirata, Fortalezas Pirata, Redes Criminales) a veces pueden ser destruidas por otras facciones piratas en incursiones a su colonia .
+
+Así que asegúrate de defender tus colonias de los ataques de naves enemigas, evitando que se acerquen lo suficiente como para atacarlas.
+
+También tenga en cuenta que cuando controla una colonia que es propiedad de un imperio normal, entonces ese imperio puede lanzar un ataque terrestre para expulsarlo de su colonia, destruyendo cualquier instalación pirata que haya construido.
+
+Estas invasiones terrestres las lanza el imperio propietario desde la pestaña Instalaciones de la pantalla Colonias (F2). La selección de la instalación pirata como objetivo hará que el botón "Desechar" cambie a "Atacar". Al hacer clic en el botón de ataque, se lanzará un ataque terrestre contra la instalación pirata utilizando todas las tropas que se encuentran actualmente en la colonia.
+~
+Summary
+Summary
+Los piratas brindan una experiencia de juego muy diferente en Distant Worlds. 
+
+Como facción con base en el espacio, su enfoque está más en sus naves y bases, en lugar de en las colonias.
+
+Los piratas investigan lentamente, pero lo compensan con mejores espías, lo que les permite robar tecnología y otra información.
+
+En la era pre-torcedura (anterior a la torcedura), los piratas pueden explotar imperios estándar no desarrollados.
+~
+Completed
+Completed
+Gracias por realizar este tutorial.
+
+Consulte la Galactopedia (F1) para obtener información aún más detallada sobre los Piratas.
+~

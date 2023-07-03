@@ -1,0 +1,110 @@
+Welcome
+Welcome
+Bienvenido al tutorial de Distant Worlds sobre tu Imperio y tus Colonias.
+
+Para avanzar en cada paso de este tutorial, haga clic en el botón "Continuar".
+
+Puede mover esta ventana del tutorial arrastrándola con el ratón.
+
+Comencemos: haga clic en el botón 'Continuar' a continuación.
+~
+Your Empire
+Your Empire
+Ahora veamos una descripción general de su imperio.
+
+Puedes ver un resumen de tu imperio en la pantalla Resumen del imperio (F6). Haga clic en el botón Resumen del Imperio para mostrar esta pantalla.
+~
+State vs Private
+State vs Private
+Tu imperio se divide en dos secciones:
+- Estado: la parte que controlas
+- Privada: tus ciudadanos privados que se ocupan de sus propios asuntos sin tu ayuda
+
+Ten en cuenta que solo controlas la parte estatal de tu imperio. No tienes control directo de las actividades de tus ciudadanos privados.
+~
+Private Citizens
+Private Citizens
+Tus ciudadanos privados se ocupan de sus propios asuntos, mejorando sus colonias.
+
+Esto significa que intercambian mercancías, transportan carga y recursos mineros, todo sin ninguna intervención por tu parte.
+~
+State Activities
+State Activities
+La parte estatal de tu imperio tiene cuatro tareas básicas:
+- Explorar la galaxia
+- Colonizar nuevos planetas
+- Construir nuevas naves
+- Defender tu imperio
+~
+Government Style
+Government Style
+Cada imperio sigue un estilo particular de gobierno. Cada tipo de gobierno tiene ventajas y desventajas específicas.
+
+Puedes cambiar tu estilo de gobierno haciendo una revolución. Sin embargo hay efectos secundarios negativos respecto de la revolución, incluido un retroceso temporal en el desarrollo de tus colonias.
+~
+State Income
+State Income
+El dinero es fundamental para financiar tu imperio. La economía de tu estado obtiene ingresos de cuatro áreas:
+- impuestos coloniales
+- tasas a las transacciones en tus puertos espaciales
+- compras de nuevas naves por parte de tus ciudadanos privados
+- bonificaciones del comercio con otros imperios
+~
+Colonies
+Colonies
+Echemos un vistazo a los planetas colonizados de tu imperio.
+
+Las colonias son el corazón de tu imperio. Cuando pierdes todas tus colonias, pierdes el juego.
+~
+Colonies - Tax
+Colonies - Tax
+Las colonias producen riqueza. Los principales ingresos de tu imperio provienen de gravar las colonias.
+
+Por defecto, los niveles de impuestos de las colonias se controlan automáticamente, pero puedes modificar la tasa de impuestos de cada colonia directamente si lo prefieres.
+~
+Colonies - Growth
+Colonies - Growth
+Las colonias crecen de dos formas: población y nivel de desarrollo.
+
+Población: crece a medida que pasa el tiempo hasta alcanzar un nivel máximo para el planeta.
+
+Nivel de desarrollo: cuando una colonia recibe un suministro constante de recursos de lujo, su nivel de desarrollo general aumenta. Un mayor nivel de desarrollo significa más riqueza y, por lo tanto, más ingresos fiscales.
+~
+Population Indicator
+Population Indicator
+El tamaño de la población y el nivel de desarrollo de una colonia se indican mediante el gráfico que se muestra en la placa de identificación de la colonia.
+
+El eje horizontal indica el tamaño de la población. El eje vertical se relaciona con el nivel de desarrollo.
+~
+Empire and Capital
+Empire and Capital
+El color del círculo que rodea una colonia y la placa de identificación indican a que imperio pertenece. Si la colonia es la capital del imperio, también aparece una estrella dorada a la izquierda del nombre.
+~
+Dominant Race
+Dominant Race
+La raza alienígena dominante en la colonia se muestra en la parte inferior de la placa de identificación.
+~
+Resources
+Resources
+Los recursos naturales presentes en la colonia también se muestran en la parte inferior de la placa de identificación.
+
+Estos recursos en tus colonias se extraen automáticamente y luego se usan, ya sea para construir cosas o para venderlos.
+~
+Colony List
+Colony List
+Una lista completa de todas las colonias de tu imperio está disponible en la pantalla Colonias.
+
+Puede abrir esta pantalla usando el botón indicado o presionando la tecla 'F2'.
+~
+Colonies - Cycling
+Colonies - Cycling
+Puedes recorrer rápidamente todas las colonias de tu imperio usando el botón Secuencia de colonias.
+
+Puede hacer lo mismo presionando la tecla 'C'.
+~
+Completed
+Completed
+Gracias por realizar este tutorial. ¡Ahora ve y explora la galaxia y construye tu imperio!
+
+Cuando esté listo, también puede probar los otros tutoriales del menú principal.
+~

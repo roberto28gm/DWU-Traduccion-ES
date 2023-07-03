@@ -1,0 +1,47 @@
+﻿
+GREETING_INTRODUCTION			;Somos los {0}.\n\nBuscamos la comprensión de todo en la galaxia, incluido vuestro singular imperio.\n\nPor favor, cuéntenos sobre ustedes
+GREETING_FRIENDLY			;Nuestros buenos amigos, ¿qué es lo que desean discutir con nosotros?
+GREETING_NEUTRAL			;¿Hay algo que podamos hacer por ustedes?
+GREETING_ANGRY				;Poneis a prueba nuestra paciencia.\n\nExponed vuestro asunto rápido
+
+OFFER_FREETRADE				;Sería un honor para nosotros si aceptarais un Tratado de Libre Comercio con nosotros. Estamos seguros de que este arreglo sería mutuamente ventajoso.\n\n¿Qué decís?
+FREETRADE_ACCEPT			;¿Un Tratado de Libre Comercio con ustedes? ¡Aceptamos entusiasmados!\n\nDejaremos que nuestros embajadores resuelvan los detalles del tratado por nosotros
+FREETRADE_REJECT			;Lo sentimos, pero un Tratado de Libre Comercio con ustedes no sería apropiado para nosotros ahora.\n\nTal vez deberíamos volver a revisar este tema más adelante
+
+CANCELTREATY				;Este {0} ya no es lo mejor para nuestros intereses. Estamos cancelando este acuerdo
+CANCELTREATY_RESPONSE_FRIENDLY		;Esto nos decepciona. Sentimos que este tratado valía la pena.\n\nPero respetamos su decisión de ponerle fin
+CANCELTREATY_RESPONSE_NEUTRAL		;Qué desafortunado.\n\nPero es bueno hablar abiertamente entre nosotros sobre estos importantes asuntos
+CANCELTREATY_RESPONSE_ANGRY		;Sus sentimientos coinciden con los nuestros - nosotros tampoco queremos más este tratado.\n\nEs mejor que termine
+
+TREATY_PROPOSAL				;¿Una propuesta de tratado? Estamos ansiosos por escuchar vuestra idea
+TREATY_ACCEPTRESPONSE			;Nos complace enormemente su aprobación, nuestro nuevo aliado.\n\nNo dude en compartir sus pensamientos con nosotros en cualquier momento
+TREATY_REJECTRESPONSE			;Quizás en otra ocasión piense diferente
+
+TRADESANCTIONS_IMPOSE			;Nos sentimos obligados a imponer Sanciones Comerciales contra su imperio. Todo comercio entre nuestros dos imperios ha terminado.\n\nConfiamos en que no necesitaremos tomar más medidas punitivas contra ustedes - pero eso dependerá de vosotros
+TRADESANCTIONS_IMPOSE_RESPONSE_ANGRY	;Las Sanciones Comerciales son en ambos sentidos, ya sabe.\n\nDeberías cuidar no asumir más de lo que puedas tratar...
+TRADESANCTIONS_IMPOSE_RESPONSE_NEUTRAL	;Esta acción es de lo más inútil. Le instamos a que reconsidere esta deriva
+TRADESANCTIONS_IMPOSE_RESPONSE_SURPRISED	;Esto es de lo más inquietante. Aquí no entendemos vuestras acciones
+TRADESANCTIONS_LIFT			;Nuestras Sanciones Comerciales en contra suya han terminado.\n\nEsperamos una continua mejora en nuestra relación
+TRADESANCTIONS_LIFT_RESPONSE		;Este es un logro bienvenido. El comercio puede aumentar el mutuo entendimiento entre nuestros pueblos
+
+WAR_DECLARE				;Os notificamos formalmente que ahora existe un estado de guerra entre nosotros.\n\nNo nos dejáis otra elección que encontrarnos en el campo de batalla
+WAR_DECLARE_RESPONSE_EAGER		;No es frecuente que pidamos guerra. Pero en vuestro caso lo agradecemos.\n\nAnticipamos vuestra rápida derrota
+WAR_DECLARE_RESPONSE_NEUTRAL		;Podemos ser pacíficos, pero también estamos preparados.\n\nSi pides guerra, te la daremos
+WAR_DECLARE_RESPONSE_SURPRISED		;No entendemos vuestra agresión.\n\nNos defenderemos, pero imploramos que os lo penséis una vez más
+
+WAR_END					;Este conflicto destructivo no logra nada - proponemos el fin inmediato de la guerra.\n\n¿Qué decís?
+WAR_END_ACCEPT				;Sí, esta guerra no tiene ningún proposito. Estamos ordenando a nuestras fuerzas que dejen de luchar
+WAR_END_REJECT				;Ahora es demasiado tarde para la paz.\n\nEsta guerra continuará hasta que seáis derrotados
+
+GIFT_GIVE				;Os presentamos un obsequio de {0} créditos.\n\nQue este gesto construya un vínculo más fuerte entre nuestros pueblos
+GIFT_THANKS				;Vuestro amable regalo fue muy apreciado. ¡Gracias!
+
+WARNING_INTELLIGENCEMISSIONS		;Sus temerarias misiones secretas contra nosotros son sumamente desestabilizadoras.\n\n¡Detened estas misiones de una vez! Nuestros asuntos internos no son de vuestra incumbencia
+WARNING_ATTACKS				;Estamos profundamente preocupados por sus injustificados ataques a nuestras naves y bases.\n\n¡Cese esas operaciones militares en este instante u os enfrentaréis a represalias devastadoras!
+WARNING						;Comparta sus preocupaciones con nosotros
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_FRIENDLY	;No hemos oído hablar de ninguna misión secreta contra ustedes.\n\n¿Tal vez estáis equivocados?
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_NEUTRAL	;¿Misiones secretas, dice? dejenos mirar este asunto.\n\nGracias por observar este problema con nosotros
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_ANGRY	;¿Han detectado misiones secretas contra ustedes?\n\nSi podemos hablar francamente con usted: nos sentimos amenazados por vosotros. Sois irracionales e impredecibles. Creemos que debemos vigilarlo de cerca\n\n¿Seguramente comprende nuestra situación?
+WARNING_ATTACKS_RESPONSE_FRIENDLY		;Oh no, parece que algunos de nuestros comandantes se han entusiasmado demasiado en la defensa de nuestras fronteras.\n\nPor favor acepte nuestras disculpas
+WARNING_ATTACKS_RESPONSE_NEUTRAL		;¿Ataques? De lo más desafortunado.\n\nMandaremos un despacho para investigar sus acusaciones
+WARNING_ATTACKS_RESPONSE_ANGRY			;Sí, estamos al tanto de los ataques. Siempre enviamos ataques contra los imperios que nos amenazan.\n\n¿Seguramente comprende este termino?

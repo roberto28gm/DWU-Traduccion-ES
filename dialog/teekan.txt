@@ -1,0 +1,48 @@
+﻿
+GREETING_INTRODUCTION			;¡Bienvenido! Somos {0}.\n\nNos gusta arreglar máquinas y cazar Bakdurs.\n\nNosotros no gustan baños ni  dictadores genocidas
+GREETING_FRIENDLY			;¡Bienvenidos a nuestro humilde campamento amigo!\n\n¿De qué hablar?
+GREETING_NEUTRAL			;¿Qué nosotros hacer por ti?
+GREETING_ANGRY				;No feliz de verte, ok.\n\nAsí que hazlo rápido
+
+OFFER_FREETRADE				;¡Hacemos Tratado de Libre Comercio contigo! Buena idea, ¿hmmm?\n\n¡Di sí!
+FREETRADE_ACCEPT			;Yupiii por Tratado de Libre Comercio! ¡Aceptamos!\n\nQuédate para fiesta, ¿no?
+FREETRADE_REJECT			;No, no quiero vuestro Tratado de Libre Comercio.Es no bueno para nosotros
+
+CANCELTREATY				;{0} con vosotros nada bueno ahora. Todo terminado
+CANCELTREATY_RESPONSE_FRIENDLY		;¿Dejaste de apreciarnos? ¿Cómo arreglamos?\n\nIncluso nos tomamos baño si quieres
+CANCELTREATY_RESPONSE_NEUTRAL		;¿Eh? ¿No nos gustamos ahora?\n\nOk Entonces
+CANCELTREATY_RESPONSE_ANGRY		;¿Ningún tratado ahora?\n\nBien, pensabamos que parecías cómico de todos modos. ¿Tienes ningún olor! Y demasiado limpio
+
+TREATY_PROPOSAL				;Ohhh, tratado, tratado! ¡Tan exitante!\n\nOk, estamos escuchando ahora. Cuéntanos plan
+TREATY_ACCEPTRESPONSE			;Siií! ¡Nuevo amigo!\n\n¿Tienes alguna chatarra rota que no quieres? La recogemos por ti, ¿sí?
+TREATY_REJECTRESPONSE			;Demasiado malo. Teníamos celebración lista para comenzar.\n\nPero ahora no
+
+TRADESANCTIONS_IMPOSE			;Nosotros no gusta tu ahora. ¡Así que te hacemos sanciones comerciales!\n\n¡No más carne de Bakdur para ti!
+TRADESANCTIONS_IMPOSE_RESPONSE_ANGRY	;Yiiiii! ¡Nosotros muy irritados contigo!\n\n¡Grandes problemas vienen por ti, gente de ningún olor!
+TRADESANCTIONS_IMPOSE_RESPONSE_NEUTRAL	;Aaak! Esto no bueno. ¡Tú no ser justo con nosotros!
+TRADESANCTIONS_IMPOSE_RESPONSE_SURPRISED	;¡Tú un gran mezquino! Nosotros amables contigo, pero tú duro con nosotros.\n\nNo tiene sentido
+TRADESANCTIONS_LIFT			;Negociamos contigo otra vez ahora.\n\nNecesitar más basura rota, así que envíanos algo, ¿ok?
+TRADESANCTIONS_LIFT_RESPONSE		;Cambias opinión todo el tiempo.\n\nPero nosotros feliz, comercio es bueno
+
+WAR_DECLARE				;¡Nos pones super enfadados! ¡Nosotros GUERRA contigo!\n\n¡Atento: grandes naves de caza vienen a por vosotros!
+WAR_DECLARE_RESPONSE_EAGER		;¡Nosotros feliz de luchar contigo! Tú demasiado limpio, tiene ningún olor!\n\nTú necesitas caza
+WAR_DECLARE_RESPONSE_NEUTRAL		;Ok entonces.¡Nosotros damos gran golpe a ti ahora!
+WAR_DECLARE_RESPONSE_SURPRISED		;¿Guerra dices? No bueno!\n\nNo tener sentido
+
+WAR_END					;Guerra no buena. nosotros paramos ahora.\n\n¿tu parar también?
+WAR_END_ACCEPT				;Ok, guerra terminó.\n\nDe todos modos pronto temporada de caza de Bakdur
+WAR_END_REJECT				;¿Teníais suficiente aliento combativo de Bakdur?\n\n¡No para nosotros! ¡Te cazamos un poco más! 
+
+GIFT_GIVE				;Algo para ti: {0} créditos.\n\nTened momento feliz, ¿ok?
+GIFT_THANKS				;¡tú nos das regalo! Gracias
+
+WARNING_INTELLIGENCEMISSIONS		;¡Tú astuta serpiente! ¡Tú haciendo espantosas cosas secretas a nosotros!\n\n¡No feliz con asuntos tramposos! ¡Detén ahora, o si no...!
+WARNING_ATTACKS				;¡Tú loco alien! ¡Para de atacarnos!\n\n¡Nosotros cazarte si no parar!
+
+WARNING						;¿Advertirnos de qué?
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_FRIENDLY	;¿Misiones? ¿Que son esto?\n\nNo misiones sobre ti. Tú equivocas
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_NEUTRAL	;Nosotros comprobamos sobre misiones. No seguro si nosotros hicimos
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_ANGRY	;Sí, nosotros enviamos misiones. nosotros no gustas tú - ¡tú no hueles!\n\nNosotros enviamos más misiones si tu mantienes asustandonos
+WARNING_ATTACKS_RESPONSE_FRIENDLY		;Esto muy malo. Nosotros sentimos.\n\nNosotros decimos a dementes capitanes navales parar ahora
+WARNING_ATTACKS_RESPONSE_NEUTRAL		;Eso no bueno.\n\nNosotros miramos en cosas. Descubrimos que sucedio, ¿ok?
+WARNING_ATTACKS_RESPONSE_ANGRY			;Sí, nosotros enviamos ataques a ti. Nuestras naves cazandote por lo que tú significas.\n\nDeja de volverte loco malo, entonces nosotros paramos ataques, ¿ok?

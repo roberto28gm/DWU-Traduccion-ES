@@ -1,0 +1,23 @@
+﻿'Distant Worlds Plagues - 1.9.5.0
+
+'each line defines a single plague with comma-separated data, up to a maximum of 50 plagues (0-49)
+' - ID: numeric ID value of plague
+' - Name: text of plague name
+' - PictureRef: index value mapping to image used to display plague (images\ui\plagues folder)
+' - MortalityRate: rate of population loss caused by plague, measured in proportion of population lost in a single year. Should be in range between 0.001 and 5.0
+' - InfectionChance: numeric value that determines chance of plague spreading to other nearby colonies. Higher values means higher chance of spreading. Should be in range of 0 to 1000
+' - Duration: typical duration of plague at a colony, measured in seconds. Thus a value of 300 means 6 months of game time. Should be in range of 1 to 1200
+' - NaturalOccurrenceLevel: numeric value that determines how often this plague naturally strikes at colonies compared to other plagues. Higher values means more frequent outbreaks. Value of zero means no natural occurrences. Should be between 0 and 10
+' - CanCompletelyEliminatePopulation: Y/N value indicating whether plague can completely eliminate the population at a colony. If set to N then population will not drop below 10 million at an infected colony
+' - ExceptionRaceName: name of race that has different values for mortality, infection and length. Should match a race in the races folder. Otherwise leave blank
+' - ExceptionMortalityRate: rate of population loss caused by plague for Exception Race above, measured in proportion of population lost in a single year. Should be in range between 0.001 and 5.0
+' - ExceptionInfectionChance: numeric value that determines chance of plague spreading to other nearby colonies for Exception Race above. Higher values means higher chance of spreading. Should be in range of 0 to 1000
+' - ExceptionDuration: typical duration of plague at a colony for Exception Race above, measured in seconds. Thus a value of 300 means 6 months of game time. Should be in range of 1 to 1200
+' - SpecialFunctionCode: 0=NONE, 1=Xaraktor virus (Researchable and Deployable)
+' - Description: extended textual description of plague. Should be no longer than 200 characters
+
+0, Hekretos Fever,					0, 0.06, 30, 150, 3, N,		, 0, 0, 0, 0,						La fiebre de Hekretos es una infección mortal que ataca los órganos internos, provocando una rápida degeneración y la muerte. Un brote de fiebre de Hekretos suele durar unos 3 meses.
+1, Dekara Virus,					1, 0.09, 10, 300, 3, N,		, 0, 0, 0, 0,						El virus Dekara es una enfermedad muy dolorosa que paraliza lentamente el sistema nervioso central de cualquier criatura que se infecta y, en última instancia, conduce a la muerte. Un brote del virus Dekara suele durar unos 6 meses.
+2, Genetic Scrambling Syndrome,		2, 0.45, 85, 60, 2, N,		, 0, 0, 0, 0,						El síndrome de codificación genética ataca el código genético de todas las células de las criaturas infectadas, eliminando cualquier instrucción biológica útil. Esto conduce a una desintegración muy rápida de las criaturas infectadas, que finalmente las convierte en un charco de baba de proteína. Un brote del síndrome de codificación genética generalmente dura solo un mes. Sin embargo, es muy infeccioso y, por tanto, puede propagarse rápidamente.
+3, Merturov Plague,					3, 0.27, 25, 180, 1, N,		, 0, 0, 0, 0,						La peste de Merturov es la enfermedad más mortal de la galaxia conocida. Rápidamente devora el cerebro de las criaturas infectadas, causando de forma progresiva locura, inmovilización y eventualmente la muerte. La peste de Merturov es un virus de transmisión aérea muy resistente y, por tanto, muy infeccioso. Un brote de peste de Merturov suele durar 4 meses.
+4, Xaraktor Virus,					4, 2.52, 150, 300, 0, Y,	Shakturi, 3.61, 240, 450, 1,		El virus Xaraktor es un virus sintético excepcionalmente mortal. Está destinado principalmente a atacar la estructura genética de la especie Shakturi. Sin embargo, las variantes primitivas del virus son más indiscriminadas y también resultan rápidamente fatales para la mayoría de las demás especies. El virus Xaraktor sabotea activamente el código genético del huésped infectado, invirtiendo la función celular para que el cuerpo produzca venenos tóxicos.

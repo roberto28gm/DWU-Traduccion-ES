@@ -1,0 +1,47 @@
+﻿GREETING_INTRODUCTION			;Saludos! somos los {0}.\n\nBuscamos buenas relaciones con todos.\n\n¿Os gustaría probar alguno de nuestros famosos vinos de Nepthys?
+GREETING_FRIENDLY			;Un placer volver a ver tu cara, amigo. ¿Qué podemos hacer por ti?
+GREETING_NEUTRAL			;¿como podemos ayudarte?
+GREETING_ANGRY				;Pruebas nuestra paciencia. expresate rapido
+
+OFFER_FREETRADE				;Recomendamos un Acuerdo de Libre Comercio entre nosotros.\n\n¡Piensa en todas las perlas de Ucantium y el vino Nepthys que podemos comerciar!\n\n¿tentado?
+FREETRADE_ACCEPT			;¡Gran idea! Aceptamos un Tratado de Libre Comercio.\n\n¡larga vida a nuestra alianza!
+FREETRADE_REJECT			;No, rechazamos un Tratado de Libre Comercio por ahora.\n\nPosiblemente más adelante, ya veremos
+
+CANCELTREATY				;No podemos soportar más nuestro {0}. Así que terminamos el tratado ahora.\n\nOs deseamos lo mejor
+CANCELTREATY_RESPONSE_FRIENDLY		;¡Esto nos sorprende!\n\nRealmente no entendemos sus acciones al respecto, pero respetamos su decisión
+CANCELTREATY_RESPONSE_NEUTRAL		;Si los tratados ya no funcionan, debemos afrontar el problema.\n\nOs agradecemos vuestra honestidad
+CANCELTREATY_RESPONSE_ANGRY		;Estamos de acuerdo con su juicio.\n\nEste tratado tampoco nos satisface. Lo mejor es terminarlo
+
+TREATY_PROPOSAL				;¿Qué tipo de cambio tienes en mente?
+TREATY_ACCEPTRESPONSE			;¡Un resultado excelente! Nos agradan como aliados.\n\n¿Os gustaría algo de vino de Nepthys?
+TREATY_REJECTRESPONSE			;¿seguro que no podemos cambiar vuestra opinión?\n\nTal vez lo reconsideréis en el futuro
+
+TRADESANCTIONS_IMPOSE			;No nos tomamos esto a la ligera, sin embargo debemos imponeros Sanciones comerciales.\n\nEsperamos que no tengamos que ir más allá de esto
+TRADESANCTIONS_IMPOSE_RESPONSE_ANGRY	;¡Nos enfada vuestra apresurada imposición de sanciones Comerciales!\n\nResponderemos para proteger nuestros intereses
+TRADESANCTIONS_IMPOSE_RESPONSE_NEUTRAL	;¿Os gusta jugar duro, eh? También podemos jugar a eso, ya sabes.\n\n¡No más vino Nepthys para vosotros!
+TRADESANCTIONS_IMPOSE_RESPONSE_SURPRISED	;No entendemos vuestras acciones. No hay necesidad de Sanciones Comerciales
+TRADESANCTIONS_LIFT			;Nuestras sanciones en vuestra contra han cumplido su objetivo.\n\nAhora las estamos levantando
+TRADESANCTIONS_LIFT_RESPONSE		;Muy bien. También reanudaremos nuestro comercio.\n\n¿Qué tal algo de vino Nepthys para celebrarlo?
+
+WAR_DECLARE				;No nos dejáis mas opción: ¡Os declaramos la GUERRA!\n\nNuestra justicia será rápida, decisiva y permanente
+WAR_DECLARE_RESPONSE_EAGER		;¿Guerra a nosotros? ¡Eh! Os daremos una lección.\n\nNo os tememos
+WAR_DECLARE_RESPONSE_NEUTRAL		;Vosotros lo habéis querido y responderemos.\n\n¡Preparad vuestras defensas!
+WAR_DECLARE_RESPONSE_SURPRISED		;¿Tenéis el hábito de atacar a vuestros amigos? Vuestro comportamiento es muy extraño.\n\n¡Tened en cuenta que nos defenderemos!
+
+WAR_END					;Esta guerra ha durado bastante. Sugerimos un necesario alto el fuego.\n\n¿Estáis de acuerdo?
+WAR_END_ACCEPT				;Sí, un alto el fuego estaría bien.\n\nEstamos retirando nuestras fuerzas ahora
+WAR_END_REJECT				;No, tenemos intención de terminar esta guerra.\n\nVuestra agresión no tiene lugar en esta galaxia
+
+GIFT_GIVE				;Os ofrecemos este regalo de {0} créditos.\n\n¿Quizás podríais gastar algo en nuestras finas perlas Ucantium?
+GIFT_THANKS				;Os agradecemos vuestro amable regalo. Muy apreciado
+
+WARNING_INTELLIGENCEMISSIONS		;Hemos interceptado sus misiones secretas contra nosotros. Esto debe acabar.\n\n¡Han sido advertidos!
+WARNING_ATTACKS				;Estamos muy enojados por atacarnos con sus naves.\n\n¡Detenedlo inmediatamente o tomaremos severas medidas contra vosotros!
+
+WARNING						;Esto parece serio. Por favor explícanos que pasa
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_FRIENDLY	;¿Misiones secretas? Considéralas terminadas.\n\nNo volveremos a molestarles
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_NEUTRAL	;Sí, entendido. Nos aseguraremos de que no vuelvan a cazarnos.\n\n¿Hay algo más?
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_ANGRY	;Ni idea de lo que estais hablando.\n\nY no tenemos intención de discutir más este asunto
+WARNING_ATTACKS_RESPONSE_FRIENDLY		;Debemos disculparnos. Nuestros agentes fronterizos deben haberse entusiasmado demasiado.\n\nEsta situación será corregida
+WARNING_ATTACKS_RESPONSE_NEUTRAL		;De acuerdo, esto es de lo más inútil.\n\nNos ocuparemos de los capitanes navales involucrados en este incidente
+WARNING_ATTACKS_RESPONSE_ANGRY			;¿Ataque a vuestras naves?\n\nSeamos honestos: Consideramos vuestro imperio muy preocupante. No me sorprendería si uno de nuestros capitanes fuera de gatillo fácil.\n\nQuizas deberíais revisar a vuestros comandantes primero, antes de venir a quejaros

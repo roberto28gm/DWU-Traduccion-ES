@@ -1,0 +1,74 @@
+Welcome
+Welcome
+En Distant Worlds puedes jugar como un imperio que no viaja por el espacio ya que primero debe desarrollar las tecnologías de los viajes y la colonización hiperespacial antes de que puedas dirigirte a las estrellas.
+
+Este tutorial explicará cómo jugar como un imperio anterior a la torcedura.
+
+Para avanzar en cada paso de este tutorial, haga clic en el botón "Continuar".
+
+Puede mover esta ventana del tutorial arrastrándola con el ratón.
+
+Comencemos: haga clic en el botón 'Continuar' a continuación.
+~
+PreWarp Empire
+PreWarp Empire
+Como imperio anterior a la torcedura, inicialmente no tienes naves ni bases. ¡Estás en los albores de la era de la exploración espacial!
+
+Comienzas solo con tecnología espacial básica, sin hiperimpulsores, escudos o colonización.
+
+Su primera tarea es construir un puerto espacial orbital. Este puerto espacial servirá como un plataforma de construcción para construir la mayoría de sus naves espaciales.
+
+El puerto espacial también ofrece laboratorios de investigación para progresar en el nivel tecnológico.
+~
+Exploring Your Home System
+Exploring Your Home System
+A continuación, debería construir algunas naves para explorar su sistema natal.
+
+Recuerde que sin los hiperimpulsores todos los viajes se realizarán a velocidades lentas por debajo de la luz. Así que incluso explorarar su sistema natal llevará tiempo.
+
+Construye algunas naves de exploración en tu puerto espacial y envíalas para descubrir qué recursos y otros elementos existen cerca.
+~
+Mining
+Mining
+Una vez que haya identificado los recursos cercanos útiles, debe construir un nave de construcción en su colonia y enviarla a construir una estación minera para extraer dichos recursos.
+
+Recuerde que los recursos más importantes en principio son el combustible (Caslon) y el acero. Otros recursos que debe priorizar son: hidrógeno, plomo, fibra de carbono, polímeros y silicio. Todos estos recursos generalmente deben estar presentes en algún lugar de su sistema natal, aunque a veces poco abundantes.
+
+La construcción de una red de estaciones mineras repartidas por su sistema natal activará automáticamente su economía privada para construir cargueros y naves mineras para traer los recursos de regreso a su colonia natal.
+~
+Research
+Research
+Mientras establece una red minera, debe enfocar su investigación en las áreas más importantes.
+
+Deberías intentar conseguir algún tipo de arma lo antes posible para darle a tu incipiente imperio alguna defensa. Los escudos también son muy útiles para hacer a tu puerto espacial y naves militares más resistentes en caso de batalla.
+
+Aumentar el tamaño de sus naves y bases también es una buena opción de investigación.
+
+Tan pronto como puedas, deberías comenzar a investigar hiperimpulsores (Precursores de campo de torcedura).
+~
+Breakthrough Technologies
+Breakthrough Technologies
+A medida que creces y te estableces, deberías centrarte en investigar hiperimpulsores para permitir que tus naves abandonen tu sistema de origen y viajen a estrellas cercanas.
+
+Este proyecto de investigación puede llevar algún tiempo, pero una vez logrado, puede comenzar a expandirse a otros sistemas estelares.
+
+La próxima tecnología clave para la investigación es la colonizadora. Esto te permitirá construir naves Colonizadoras y fundar nuevas colonias para tu imperio.
+
+Una vez se alcancen estos avances clave, ¡estará en camino de convertirse en un poderoso imperio estelar!
+~
+Expanding Across the Stars
+Expanding Across the Stars
+Ha llegado el momento de extender su territorio por la galaxia.
+
+A medida que explora, se encontrará con otros imperios y facciones piratas, lo que le llevará a cooperaciones pacíficas y a agudos conflictos.
+
+Continúa investigando nuevas tecnologías. Coloniza nuevos planetas prometedores. Construye una red minera integral para hacer que tu imperio sea rico en recursos.
+~
+Completed
+Completed
+Gracias por realizar este tutorial.
+
+Cuando esté listo, también puede tomar el tutorial "Encontrando su Camino" del menú principal.
+
+Recuerde que puede consultar la Galactopedia (F1) en cualquier momento para obtener más información.
+~
